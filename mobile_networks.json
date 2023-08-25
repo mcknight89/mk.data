@@ -84003,11 +84003,31 @@
     "mccMnc": 311780,
     "mcc": 311,
     "mnc": 780,
-    "countryCode": 16,
-    "isoCode2": "AS",
-    "network": "American Samoa Telecommunications",
-    "countryName": "American Samoa",
-    "iso": 16
+    "countryCode": 840,
+    "isoCode2": "US",
+    "network": "American Samoa Telecommunications Authority",
+    "countryName": "United States",
+    "iso": 840
+  },
+  {
+    "mccMnc": 311780,
+    "mcc": 311,
+    "mnc": 780,
+    "countryCode": 840,
+    "isoCode2": "US",
+    "network": "American Samoa Telecommunications Authority",
+    "countryName": "United States",
+    "iso": 840
+  },
+  {
+    "mccMnc": 311780,
+    "mcc": 311,
+    "mnc": 780,
+    "countryCode": 840,
+    "isoCode2": "US",
+    "network": "American Samoa Telecommunications Authority",
+    "countryName": "United States",
+    "iso": 840
   },
   {
     "mccMnc": 311780,

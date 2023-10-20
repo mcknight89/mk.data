@@ -1,6 +1,138 @@
 [
   {
     "asn": null,
+    "owner": "WOW-INTERNET",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.179.166.0",
+    "ipEnd": "68.179.191.255",
+    "totalIps": 6655,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:41:57.323Z"
+  },
+  {
+    "asn": null,
+    "owner": "WOW-INTERNET",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.179.128.0",
+    "ipEnd": "68.179.165.255",
+    "totalIps": 9727,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:41:57.318Z"
+  },
+  {
+    "asn": null,
+    "owner": "USC-AS",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.181.80.0",
+    "ipEnd": "68.181.82.255",
+    "totalIps": 767,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:00.208Z"
+  },
+  {
+    "asn": null,
+    "owner": "USC-AS",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.181.83.0",
+    "ipEnd": "68.181.127.255",
+    "totalIps": 11519,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:00.205Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-CXA-ALL-CCI-22773-RDC",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.226.6.0",
+    "ipEnd": "68.226.63.255",
+    "totalIps": 14847,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:07.318Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-CXA-ALL-CCI-22773-RDC",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.226.64.0",
+    "ipEnd": "68.227.32.255",
+    "totalIps": 57599,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:07.345Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-CXA-ALL-CCI-22773-RDC",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.227.36.0",
+    "ipEnd": "68.227.59.255",
+    "totalIps": 6143,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:07.357Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-CXA-ALL-CCI-22773-RDC",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.227.33.0",
+    "ipEnd": "68.227.35.255",
+    "totalIps": 767,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:07.36Z"
+  },
+  {
+    "asn": null,
+    "owner": "PAVLOVMEDIA",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.234.128.0",
+    "ipEnd": "68.234.135.255",
+    "totalIps": 2047,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:12.174Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-VINS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.2.192.0",
+    "ipEnd": "69.2.206.255",
+    "totalIps": 3839,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:21.163Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-VINS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.2.207.0",
+    "ipEnd": "69.2.221.255",
+    "totalIps": 3839,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:21.213Z"
+  },
+  {
+    "asn": null,
+    "owner": "UK2NET-AS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.4.234.52",
+    "ipEnd": "69.4.234.255",
+    "totalIps": 203,
+    "countryCode": 826,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:22.36Z"
+  },
+  {
+    "asn": null,
     "owner": "Not routed",
     "ipVersion": "Ipv4",
     "ipStart": "69.7.77.0",

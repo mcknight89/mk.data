@@ -1,6 +1,182 @@
 [
   {
     "asn": null,
+    "owner": "PAVLOVMEDIA",
+    "ipVersion": "Ipv4",
+    "ipStart": "68.234.128.0",
+    "ipEnd": "68.234.135.255",
+    "totalIps": 2047,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:12.174Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-VINS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.2.192.0",
+    "ipEnd": "69.2.206.255",
+    "totalIps": 3839,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:21.163Z"
+  },
+  {
+    "asn": null,
+    "owner": "ASN-VINS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.2.207.0",
+    "ipEnd": "69.2.221.255",
+    "totalIps": 3839,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:21.213Z"
+  },
+  {
+    "asn": null,
+    "owner": "UK2NET-AS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.4.234.52",
+    "ipEnd": "69.4.234.255",
+    "totalIps": 203,
+    "countryCode": 826,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:22.36Z"
+  },
+  {
+    "asn": null,
+    "owner": "Not routed",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.7.77.0",
+    "ipEnd": "69.7.78.255",
+    "totalIps": 511,
+    "countryCode": null,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:25.177Z"
+  },
+  {
+    "asn": null,
+    "owner": "Not routed",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.60.0",
+    "ipEnd": "69.15.71.255",
+    "totalIps": 3071,
+    "countryCode": null,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.18Z"
+  },
+  {
+    "asn": null,
+    "owner": "ATL-CBEYOND",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.72.0",
+    "ipEnd": "69.15.79.255",
+    "totalIps": 2047,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.222Z"
+  },
+  {
+    "asn": null,
+    "owner": "ATL-CBEYOND",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.136.0",
+    "ipEnd": "69.15.151.255",
+    "totalIps": 4095,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.253Z"
+  },
+  {
+    "asn": null,
+    "owner": "Not routed",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.152.0",
+    "ipEnd": "69.15.163.255",
+    "totalIps": 3071,
+    "countryCode": null,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.265Z"
+  },
+  {
+    "asn": null,
+    "owner": "ATL-CBEYOND",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.164.0",
+    "ipEnd": "69.15.175.255",
+    "totalIps": 3071,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.274Z"
+  },
+  {
+    "asn": null,
+    "owner": "Not routed",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.176.0",
+    "ipEnd": "69.15.191.255",
+    "totalIps": 4095,
+    "countryCode": null,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.271Z"
+  },
+  {
+    "asn": null,
+    "owner": "ATL-CBEYOND",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.15.192.0",
+    "ipEnd": "69.15.199.255",
+    "totalIps": 2047,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.292Z"
+  },
+  {
+    "asn": null,
+    "owner": "STACKPATH",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.16.138.0",
+    "ipEnd": "69.16.138.255",
+    "totalIps": 255,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.402Z"
+  },
+  {
+    "asn": null,
+    "owner": "STACKPATH",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.16.140.0",
+    "ipEnd": "69.16.140.255",
+    "totalIps": 255,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:32.168Z"
+  },
+  {
+    "asn": null,
+    "owner": "Not routed",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.16.139.0",
+    "ipEnd": "69.16.139.255",
+    "totalIps": 255,
+    "countryCode": null,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:31.418Z"
+  },
+  {
+    "asn": null,
+    "owner": "EAGLE-9-AS",
+    "ipVersion": "Ipv4",
+    "ipStart": "69.18.237.0",
+    "ipEnd": "69.18.255.255",
+    "totalIps": 4863,
+    "countryCode": 840,
+    "maintainer": null,
+    "lastSeenOn": "2023-10-01T02:42:34.547Z"
+  },
+  {
+    "asn": null,
     "owner": "TDS-AS",
     "ipVersion": "Ipv4",
     "ipStart": "69.21.195.0",
@@ -121305,7 +121481,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "Parsun-MNT",
-    "lastSeenOn": "2023-10-14T00:07:20.614Z"
+    "lastSeenOn": "2023-10-22T03:42:00.408Z"
   },
   {
     "asn": 61209,
@@ -121316,7 +121492,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "SINET-MNT",
-    "lastSeenOn": "2023-10-14T01:01:12.34Z"
+    "lastSeenOn": "2023-10-22T03:41:34.907Z"
   },
   {
     "asn": 12929,
@@ -121327,7 +121503,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "AS12929-MNT",
-    "lastSeenOn": "2023-10-14T05:50:28.664Z"
+    "lastSeenOn": "2023-10-22T02:44:26.88Z"
   },
   {
     "asn": 51416,
@@ -121338,7 +121514,7 @@
     "totalIps": 2046,
     "countryCode": null,
     "maintainer": "MNT-RTK-SIB",
-    "lastSeenOn": "2023-10-14T01:15:44.347Z"
+    "lastSeenOn": "2023-10-22T02:17:32.473Z"
   },
   {
     "asn": 207029,
@@ -121349,7 +121525,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "WIME-MNT",
-    "lastSeenOn": "2023-10-14T00:57:59.06Z"
+    "lastSeenOn": "2023-10-22T02:20:15.458Z"
   },
   {
     "asn": 198246,
@@ -121371,7 +121547,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "sc-rapidseedbox-1-mnt",
-    "lastSeenOn": "2023-10-14T00:03:37.132Z"
+    "lastSeenOn": "2023-10-22T00:13:18.621Z"
   },
   {
     "asn": 208342,
@@ -121382,7 +121558,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "SWSB-MNT",
-    "lastSeenOn": "2023-10-14T01:36:04.836Z"
+    "lastSeenOn": "2023-10-22T03:24:56.858Z"
   },
   {
     "asn": 8831,
@@ -121393,7 +121569,7 @@
     "totalIps": 1022,
     "countryCode": null,
     "maintainer": "FINANSBANK-MNT",
-    "lastSeenOn": "2023-10-14T01:21:04.121Z"
+    "lastSeenOn": "2023-10-22T03:10:51.231Z"
   },
   {
     "asn": 34914,
@@ -121404,7 +121580,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "MNT-SYNTEC",
-    "lastSeenOn": "2023-10-14T03:10:53.342Z"
+    "lastSeenOn": "2023-10-22T03:34:14.63Z"
   },
   {
     "asn": 47594,
@@ -121415,7 +121591,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "net_comlink-mnt",
-    "lastSeenOn": "2023-10-14T00:06:20.348Z"
+    "lastSeenOn": "2023-10-22T03:19:07.613Z"
   },
   {
     "asn": 201152,
@@ -121426,7 +121602,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "mnt-ipbroker",
-    "lastSeenOn": "2023-10-14T00:25:11.529Z"
+    "lastSeenOn": "2023-10-22T00:10:58.02Z"
   },
   {
     "asn": 203068,
@@ -121437,7 +121613,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "es-telecolanza-1-mnt",
-    "lastSeenOn": "2023-10-14T00:57:48.261Z"
+    "lastSeenOn": "2023-10-22T03:34:43.638Z"
   },
   {
     "asn": 211709,
@@ -121448,7 +121624,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "SOL-NET",
-    "lastSeenOn": "2023-10-14T00:09:19.649Z"
+    "lastSeenOn": "2023-10-22T04:36:06.471Z"
   },
   {
     "asn": 4213,
@@ -121459,7 +121635,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "IPXO-MNT",
-    "lastSeenOn": "2023-10-14T01:29:20.405Z"
+    "lastSeenOn": "2023-10-22T00:44:31.7Z"
   },
   {
     "asn": 201707,
@@ -121481,7 +121657,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "korp-mnt",
-    "lastSeenOn": "2023-10-14T04:38:17.266Z"
+    "lastSeenOn": "2023-10-22T04:36:37.673Z"
   },
   {
     "asn": 58026,
@@ -121492,7 +121668,7 @@
     "totalIps": 8190,
     "countryCode": null,
     "maintainer": "lir-cn-jiunetwork-1-MNT",
-    "lastSeenOn": "2023-10-14T02:40:55.364Z"
+    "lastSeenOn": "2023-10-22T04:08:14.445Z"
   },
   {
     "asn": 21082,
@@ -121525,7 +121701,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "MNT-IS",
-    "lastSeenOn": "2023-10-14T02:57:35.416Z"
+    "lastSeenOn": "2023-10-22T05:53:34.631Z"
   },
   {
     "asn": 51525,
@@ -121536,7 +121712,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "ITLTD-MNT",
-    "lastSeenOn": "2023-10-14T04:11:29.495Z"
+    "lastSeenOn": "2023-10-22T01:14:41.586Z"
   },
   {
     "asn": 22781,
@@ -121547,7 +121723,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "IPXO-MNT",
-    "lastSeenOn": "2023-10-14T03:01:32.321Z"
+    "lastSeenOn": "2023-10-22T02:03:27.305Z"
   },
   {
     "asn": 1145,
@@ -121558,7 +121734,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "mnt-nl-kennisnet-1",
-    "lastSeenOn": "2023-10-14T02:22:36.264Z"
+    "lastSeenOn": "2023-10-22T01:19:27.525Z"
   },
   {
     "asn": 265919,
@@ -121580,7 +121756,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "MEREZHA-MNT",
-    "lastSeenOn": "2023-10-14T02:16:46.637Z"
+    "lastSeenOn": "2023-10-22T06:15:43.011Z"
   },
   {
     "asn": 201073,
@@ -121591,7 +121767,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "YESDBS-MNT",
-    "lastSeenOn": "2023-10-14T02:14:07.484Z"
+    "lastSeenOn": "2023-10-22T05:52:44.802Z"
   },
   {
     "asn": 197071,
@@ -121602,7 +121778,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "lir-at-muaiad-1-MNT",
-    "lastSeenOn": "2023-10-14T06:55:16.372Z"
+    "lastSeenOn": "2023-10-22T03:25:22.654Z"
   },
   {
     "asn": 197143,
@@ -121613,7 +121789,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "nl-gostream-1-mnt",
-    "lastSeenOn": "2023-10-14T03:10:50.573Z"
+    "lastSeenOn": "2023-10-22T06:06:53.757Z"
   },
   {
     "asn": 1199,
@@ -121624,7 +121800,7 @@
     "totalIps": 524286,
     "countryCode": null,
     "maintainer": "SN-LIR-MNT",
-    "lastSeenOn": "2023-10-14T05:05:29.464Z"
+    "lastSeenOn": "2023-10-22T00:28:24.092Z"
   },
   {
     "asn": 34754,
@@ -121635,7 +121811,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "BT95-ADM",
-    "lastSeenOn": "2023-10-14T06:55:50.209Z"
+    "lastSeenOn": "2023-10-22T00:29:09.268Z"
   },
   {
     "asn": 20698,
@@ -121646,7 +121822,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "MNT-AVTODOR",
-    "lastSeenOn": "2023-10-14T06:30:22.223Z"
+    "lastSeenOn": "2023-10-22T00:56:45.601Z"
   },
   {
     "asn": 210240,
@@ -121668,7 +121844,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "uk-kualo-1-mnt",
-    "lastSeenOn": "2023-10-14T06:07:28.087Z"
+    "lastSeenOn": "2023-10-22T01:25:30.756Z"
   },
   {
     "asn": 393427,
@@ -121679,7 +121855,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "us-heaplayer-1-mnt",
-    "lastSeenOn": "2023-10-14T06:44:28.328Z"
+    "lastSeenOn": "2023-10-22T05:51:44.714Z"
   },
   {
     "asn": 8228,
@@ -121690,7 +121866,7 @@
     "totalIps": 65534,
     "countryCode": null,
     "maintainer": "CEGETEL-ENTREPRISES",
-    "lastSeenOn": "2023-10-14T07:13:38.454Z"
+    "lastSeenOn": "2023-10-22T03:51:48.713Z"
   },
   {
     "asn": 212800,
@@ -121701,7 +121877,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "IMPULS-RIPE-MNT",
-    "lastSeenOn": "2023-10-14T04:02:54.967Z"
+    "lastSeenOn": "2023-10-22T04:46:57.585Z"
   },
   {
     "asn": 197769,
@@ -121712,7 +121888,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "IPACCT-MNT",
-    "lastSeenOn": "2023-10-14T06:06:31.79Z"
+    "lastSeenOn": "2023-10-22T01:28:14.377Z"
   },
   {
     "asn": 64458,
@@ -121723,7 +121899,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "MDP583-RIPE",
-    "lastSeenOn": "2023-10-14T05:29:32.6Z"
+    "lastSeenOn": "2023-10-22T01:40:32.96Z"
   },
   {
     "asn": 41981,
@@ -121734,7 +121910,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "MW7511-MNT",
-    "lastSeenOn": "2023-10-14T01:30:34.206Z"
+    "lastSeenOn": "2023-10-22T01:46:04.335Z"
   },
   {
     "asn": 207435,
@@ -121745,7 +121921,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "mnt-fr-marmites-1",
-    "lastSeenOn": "2023-10-14T05:48:42.215Z"
+    "lastSeenOn": "2023-10-22T04:49:57.191Z"
   },
   {
     "asn": 201707,
@@ -121756,7 +121932,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "MNT-INTERNETSAHIBI",
-    "lastSeenOn": "2023-10-14T00:20:54.394Z"
+    "lastSeenOn": "2023-10-22T00:04:30.749Z"
   },
   {
     "asn": 16242,
@@ -121767,7 +121943,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "mnt-ch-gluechlichgmbh-1",
-    "lastSeenOn": "2023-10-14T00:22:37.654Z"
+    "lastSeenOn": "2023-10-22T03:05:36.392Z"
   },
   {
     "asn": 33522,
@@ -121778,7 +121954,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "PLESK-NSK-MNT",
-    "lastSeenOn": "2023-10-14T00:27:42.595Z"
+    "lastSeenOn": "2023-10-22T03:06:04.739Z"
   },
   {
     "asn": 47516,
@@ -121789,7 +121965,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "IPXO-MNT",
-    "lastSeenOn": "2023-10-14T00:28:29.189Z"
+    "lastSeenOn": "2023-10-22T02:34:20.363Z"
   },
   {
     "asn": 51791,
@@ -121811,7 +121987,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "lir-es-atlas1-1-MNT",
-    "lastSeenOn": "2023-10-14T00:40:34.137Z"
+    "lastSeenOn": "2023-10-22T02:50:59.64Z"
   },
   {
     "asn": 57529,
@@ -121822,7 +121998,7 @@
     "totalIps": 1022,
     "countryCode": null,
     "maintainer": "IP-RIPE",
-    "lastSeenOn": "2023-10-14T01:00:29.103Z"
+    "lastSeenOn": "2023-10-22T02:03:13.841Z"
   },
   {
     "asn": 62255,
@@ -121833,7 +122009,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "BMYLINK-MNT",
-    "lastSeenOn": "2023-10-14T01:03:38.461Z"
+    "lastSeenOn": "2023-10-22T04:08:15.137Z"
   },
   {
     "asn": 198246,
@@ -121844,7 +122020,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "soltia",
-    "lastSeenOn": "2023-10-14T01:06:44.025Z"
+    "lastSeenOn": "2023-10-22T03:58:40.057Z"
   },
   {
     "asn": 203380,
@@ -121855,7 +122031,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "lir-lu-sardina-1-MNT",
-    "lastSeenOn": "2023-10-14T01:25:04.491Z"
+    "lastSeenOn": "2023-10-22T00:34:11.219Z"
   },
   {
     "asn": 205814,
@@ -121866,7 +122042,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "lir-iq-orbit-1-MNT",
-    "lastSeenOn": "2023-10-14T01:26:29.156Z"
+    "lastSeenOn": "2023-10-22T03:43:34.077Z"
   },
   {
     "asn": 205663,
@@ -121877,7 +122053,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "PITLINE-MNT",
-    "lastSeenOn": "2023-10-14T02:07:13.099Z"
+    "lastSeenOn": "2023-10-22T02:57:14.272Z"
   },
   {
     "asn": 27796,
@@ -121888,7 +122064,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "mnt-ipbroker",
-    "lastSeenOn": "2023-10-14T02:13:33.353Z"
+    "lastSeenOn": "2023-10-22T04:48:15.764Z"
   },
   {
     "asn": 209492,
@@ -121899,7 +122075,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "interlir-mnt",
-    "lastSeenOn": "2023-10-14T02:16:33.634Z"
+    "lastSeenOn": "2023-10-22T06:15:42.31Z"
   },
   {
     "asn": 47540,
@@ -121910,7 +122086,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "interlir-mnt",
-    "lastSeenOn": "2023-10-14T02:20:36.572Z"
+    "lastSeenOn": "2023-10-22T02:47:47.051Z"
   },
   {
     "asn": 208844,
@@ -121921,7 +122097,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "mnt-nl-vtech-1",
-    "lastSeenOn": "2023-10-14T02:21:50.71Z"
+    "lastSeenOn": "2023-10-22T01:14:12.907Z"
   },
   {
     "asn": 42770,
@@ -121932,7 +122108,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "kz-ipnet-kar-tel-1-mnt",
-    "lastSeenOn": "2023-10-14T02:22:18.409Z"
+    "lastSeenOn": "2023-10-22T01:10:05.03Z"
   },
   {
     "asn": 199699,
@@ -121943,7 +122119,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "GAMGROUP-MNT",
-    "lastSeenOn": "2023-10-14T02:25:54.574Z"
+    "lastSeenOn": "2023-10-22T02:56:59.485Z"
   },
   {
     "asn": 204174,
@@ -121954,7 +122130,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "FDNL-MNT",
-    "lastSeenOn": "2023-10-14T02:41:57.409Z"
+    "lastSeenOn": "2023-10-22T01:08:35.837Z"
   },
   {
     "asn": 60619,
@@ -121965,7 +122141,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "hu-telconet-1-mnt",
-    "lastSeenOn": "2023-10-14T02:52:46.332Z"
+    "lastSeenOn": "2023-10-22T03:04:00.424Z"
   },
   {
     "asn": 49961,
@@ -121976,7 +122152,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "mnt-axione",
-    "lastSeenOn": "2023-10-14T03:07:39.789Z"
+    "lastSeenOn": "2023-10-22T02:29:02.812Z"
   },
   {
     "asn": 142430,
@@ -121987,7 +122163,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "interlir-mnt",
-    "lastSeenOn": "2023-10-14T03:10:51.793Z"
+    "lastSeenOn": "2023-10-22T00:23:50.706Z"
   },
   {
     "asn": 396026,
@@ -121998,7 +122174,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "IPXO-MNT",
-    "lastSeenOn": "2023-10-14T03:22:44.098Z"
+    "lastSeenOn": "2023-10-22T00:46:00.016Z"
   },
   {
     "asn": 34975,
@@ -122009,7 +122185,7 @@
     "totalIps": 4094,
     "countryCode": null,
     "maintainer": "AZIMUTR-MNT",
-    "lastSeenOn": "2023-10-14T03:29:12.455Z"
+    "lastSeenOn": "2023-10-22T03:47:47.739Z"
   },
   {
     "asn": 42216,
@@ -122020,7 +122196,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "GEO-MNT",
-    "lastSeenOn": "2023-10-14T03:35:48.089Z"
+    "lastSeenOn": "2023-10-22T03:11:06.623Z"
   },
   {
     "asn": 202345,
@@ -122042,7 +122218,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "NETWORK-SUPPORT-MNT",
-    "lastSeenOn": "2023-10-14T03:46:45.154Z"
+    "lastSeenOn": "2023-10-22T03:13:34.564Z"
   },
   {
     "asn": 51759,
@@ -122053,7 +122229,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "PIROOZ-MNT",
-    "lastSeenOn": "2023-10-14T03:55:07.527Z"
+    "lastSeenOn": "2023-10-22T04:04:10.846Z"
   },
   {
     "asn": 197644,
@@ -122064,7 +122240,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "MNT-INTERNETSAHIBI",
-    "lastSeenOn": "2023-10-14T04:11:23.216Z"
+    "lastSeenOn": "2023-10-22T01:07:07.249Z"
   },
   {
     "asn": 212325,
@@ -122075,7 +122251,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "SUCHDOLNET-MNT",
-    "lastSeenOn": "2023-10-14T04:12:14.811Z"
+    "lastSeenOn": "2023-10-22T03:24:40.702Z"
   },
   {
     "asn": 60524,
@@ -122086,7 +122262,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "lb-laf-1-mnt",
-    "lastSeenOn": "2023-10-14T04:34:04.892Z"
+    "lastSeenOn": "2023-10-22T05:54:00.419Z"
   },
   {
     "asn": 37228,
@@ -122097,7 +122273,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "RN07849-NMT",
-    "lastSeenOn": "2023-10-14T04:43:04.649Z"
+    "lastSeenOn": "2023-10-22T04:42:20.984Z"
   },
   {
     "asn": 2914,
@@ -122108,7 +122284,7 @@
     "totalIps": 1022,
     "countryCode": null,
     "maintainer": "interlir-mnt",
-    "lastSeenOn": "2023-10-14T04:47:56.053Z"
+    "lastSeenOn": "2023-10-22T05:30:29.069Z"
   },
   {
     "asn": 206907,
@@ -122118,8 +122294,8 @@
     "ipEnd": "91.224.69.254",
     "totalIps": 510,
     "countryCode": null,
-    "maintainer": "BEST-NET-MNT",
-    "lastSeenOn": "2023-10-14T04:48:41.287Z"
+    "maintainer": "UAG-MNT",
+    "lastSeenOn": "2023-10-22T05:24:41.326Z"
   },
   {
     "asn": 209466,
@@ -122130,7 +122306,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "AS42910",
-    "lastSeenOn": "2023-10-14T04:56:13.886Z"
+    "lastSeenOn": "2023-10-22T00:01:53.763Z"
   },
   {
     "asn": 60558,
@@ -122141,7 +122317,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "IPXO-MNT",
-    "lastSeenOn": "2023-10-14T05:06:57.88Z"
+    "lastSeenOn": "2023-10-22T04:24:33.596Z"
   },
   {
     "asn": 200773,
@@ -122152,7 +122328,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "IFA-MNT",
-    "lastSeenOn": "2023-10-14T05:08:30.071Z"
+    "lastSeenOn": "2023-10-22T05:17:47.928Z"
   },
   {
     "asn": 60528,
@@ -122174,7 +122350,7 @@
     "totalIps": 510,
     "countryCode": null,
     "maintainer": "BELWUE-MNT",
-    "lastSeenOn": "2023-10-14T06:03:47.764Z"
+    "lastSeenOn": "2023-10-22T06:10:14.655Z"
   },
   {
     "asn": 204922,
@@ -122185,7 +122361,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "DUSTIN-MS-NS-MNT",
-    "lastSeenOn": "2023-10-14T06:04:33.378Z"
+    "lastSeenOn": "2023-10-22T02:56:15.545Z"
   },
   {
     "asn": 400377,
@@ -122207,7 +122383,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "SKYWARE-MNT",
-    "lastSeenOn": "2023-10-14T06:08:13.284Z"
+    "lastSeenOn": "2023-10-22T06:28:30.886Z"
   },
   {
     "asn": 211971,
@@ -122218,7 +122394,7 @@
     "totalIps": 126,
     "countryCode": null,
     "maintainer": "lir-kz-llptriest-1-MNT",
-    "lastSeenOn": "2023-10-14T06:24:51.474Z"
+    "lastSeenOn": "2023-10-22T06:16:14.921Z"
   },
   {
     "asn": 213005,
@@ -122229,7 +122405,7 @@
     "totalIps": 1022,
     "countryCode": null,
     "maintainer": "intermanaged",
-    "lastSeenOn": "2023-10-14T06:35:57.447Z"
+    "lastSeenOn": "2023-10-22T02:13:28.78Z"
   },
   {
     "asn": 205450,
@@ -122240,7 +122416,7 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "IPXO-MNT",
-    "lastSeenOn": "2023-10-14T06:43:54.934Z"
+    "lastSeenOn": "2023-10-22T06:09:26.587Z"
   },
   {
     "asn": 6843,
@@ -122251,7 +122427,7 @@
     "totalIps": -1,
     "countryCode": null,
     "maintainer": "al-diginet-1-mnt",
-    "lastSeenOn": "2023-10-14T06:58:45.097Z"
+    "lastSeenOn": "2023-10-22T03:42:18.084Z"
   },
   {
     "asn": 213369,
@@ -122262,6 +122438,435 @@
     "totalIps": 254,
     "countryCode": null,
     "maintainer": "SFERA-MNT",
-    "lastSeenOn": "2023-10-14T07:07:17.992Z"
+    "lastSeenOn": "2023-10-22T00:39:54.134Z"
+  },
+  {
+    "asn": 48279,
+    "owner": "Delta-Net",
+    "ipVersion": "Ipv4",
+    "ipStart": "94.154.252.1",
+    "ipEnd": "94.154.255.254",
+    "totalIps": 1022,
+    "countryCode": null,
+    "maintainer": "DZHUVA-MNT",
+    "lastSeenOn": "2023-10-22T00:14:14.001Z"
+  },
+  {
+    "asn": 147287,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "195.133.78.1",
+    "ipEnd": "195.133.78.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "interlir-mnt",
+    "lastSeenOn": "2023-10-22T00:15:04.885Z"
+  },
+  {
+    "asn": 206080,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a0a:9900::",
+    "ipEnd": "2a0a:9900:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "mnt-noc-inovex",
+    "lastSeenOn": "2023-10-22T00:29:53.069Z"
+  },
+  {
+    "asn": 41354,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a05:b100::",
+    "ipEnd": "2a05:b100:fff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "FOURTHUTIL-MNT",
+    "lastSeenOn": "2023-10-22T00:32:42.332Z"
+  },
+  {
+    "asn": 209641,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a11:8f84::",
+    "ipEnd": "2a11:8f84:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "ru-transcom-1-mnt",
+    "lastSeenOn": "2023-10-22T00:33:28.929Z"
+  },
+  {
+    "asn": 211804,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "91.102.162.1",
+    "ipEnd": "91.102.162.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "lir-tr-datafonteknoloji-1-MNT",
+    "lastSeenOn": "2023-10-22T00:34:24.249Z"
+  },
+  {
+    "asn": 202470,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "91.238.123.1",
+    "ipEnd": "91.238.123.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "lir-md-eurotelecom36-1-MNT",
+    "lastSeenOn": "2023-10-22T01:04:15.444Z"
+  },
+  {
+    "asn": 269862,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.213.167.1",
+    "ipEnd": "89.213.167.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T01:06:12.625Z"
+  },
+  {
+    "asn": 35530,
+    "owner": "Proline TM LTD",
+    "ipVersion": "Ipv4",
+    "ipStart": "93.126.96.1",
+    "ipEnd": "93.126.99.254",
+    "totalIps": 1022,
+    "countryCode": null,
+    "maintainer": "DZHUVA-MNT",
+    "lastSeenOn": "2023-10-22T01:12:23.317Z"
+  },
+  {
+    "asn": 210240,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "45.151.63.1",
+    "ipEnd": "45.151.63.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "MNT-STRL",
+    "lastSeenOn": "2023-10-22T01:14:12.232Z"
+  },
+  {
+    "asn": 31368,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.107.128.1",
+    "ipEnd": "89.107.129.254",
+    "totalIps": 510,
+    "countryCode": null,
+    "maintainer": "MNT-ASTELNET",
+    "lastSeenOn": "2023-10-22T01:38:32.727Z"
+  },
+  {
+    "asn": 47678,
+    "owner": "sunline.net.ua",
+    "ipVersion": "Ipv4",
+    "ipStart": "94.45.92.1",
+    "ipEnd": "94.45.95.254",
+    "totalIps": 1022,
+    "countryCode": null,
+    "maintainer": "DZHUVA-MNT",
+    "lastSeenOn": "2023-10-22T01:41:35.318Z"
+  },
+  {
+    "asn": 60943,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a0c:dac0::",
+    "ipEnd": "2a0c:dac7:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "it-synapse-1-mnt",
+    "lastSeenOn": "2023-10-22T01:48:50.558Z"
+  },
+  {
+    "asn": 400377,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.40.36.1",
+    "ipEnd": "89.40.36.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "lir-ae-rcstechnologies-1-MNT",
+    "lastSeenOn": "2023-10-22T01:58:25.587Z"
+  },
+  {
+    "asn": 60456,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a0e:5f80::",
+    "ipEnd": "2a0e:5f87:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "mnt-fr-revtelecom-1",
+    "lastSeenOn": "2023-10-22T02:07:10.634Z"
+  },
+  {
+    "asn": 263522,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "14.102.230.1",
+    "ipEnd": "14.102.230.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T02:16:00.652Z"
+  },
+  {
+    "asn": 21276,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a14:5400::",
+    "ipEnd": "2a14:5400:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "ge-expert-1-mnt",
+    "lastSeenOn": "2023-10-22T02:22:03.977Z"
+  },
+  {
+    "asn": 271842,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.213.159.1",
+    "ipEnd": "89.213.159.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T02:23:03.37Z"
+  },
+  {
+    "asn": 39130,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "195.5.125.1",
+    "ipEnd": "195.5.125.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "ua-lanplusnet-1-mnt",
+    "lastSeenOn": "2023-10-22T02:28:08.829Z"
+  },
+  {
+    "asn": 39132,
+    "owner": "Swissgrid AG",
+    "ipVersion": "Ipv4",
+    "ipStart": "2a13:99c0::",
+    "ipEnd": "2a13:99c7:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "MNT-swissgrid",
+    "lastSeenOn": "2023-10-22T02:43:56.763Z"
+  },
+  {
+    "asn": 203639,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "91.244.199.1",
+    "ipEnd": "91.244.199.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T02:58:00.23Z"
+  },
+  {
+    "asn": 206974,
+    "owner": "HPWR",
+    "ipVersion": "Ipv4",
+    "ipStart": "5.149.247.1",
+    "ipEnd": "5.149.247.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "EURONETRT-MNT",
+    "lastSeenOn": "2023-10-22T03:14:36.842Z"
+  },
+  {
+    "asn": 34248,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "85.90.210.1",
+    "ipEnd": "85.90.210.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "VELTON-TC-MNT",
+    "lastSeenOn": "2023-10-22T03:15:38.81Z"
+  },
+  {
+    "asn": 203118,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "91.225.216.1",
+    "ipEnd": "91.225.216.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "ezerdi-mnt",
+    "lastSeenOn": "2023-10-22T03:22:38.35Z"
+  },
+  {
+    "asn": 20541,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "185.230.165.1",
+    "ipEnd": "185.230.165.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "GENERALI-FR-MNT",
+    "lastSeenOn": "2023-10-22T03:23:43.911Z"
+  },
+  {
+    "asn": 44620,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "92.60.70.1",
+    "ipEnd": "92.60.70.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "interlir-mnt",
+    "lastSeenOn": "2023-10-22T03:26:15.411Z"
+  },
+  {
+    "asn": 146961,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "45.89.149.1",
+    "ipEnd": "45.89.149.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T03:32:26.771Z"
+  },
+  {
+    "asn": 209434,
+    "owner": "Ericsson Nikola Tesla - Zagreb, Croatia",
+    "ipVersion": "Ipv4",
+    "ipStart": "91.212.99.1",
+    "ipEnd": "91.212.99.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "HPT-MNT",
+    "lastSeenOn": "2023-10-22T04:03:53.325Z"
+  },
+  {
+    "asn": 62240,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a11:68c3::",
+    "ipEnd": "2a11:68c3:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "IP-RIPE",
+    "lastSeenOn": "2023-10-22T04:12:45.699Z"
+  },
+  {
+    "asn": 201477,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "2a06:d4c0::",
+    "ipEnd": "2a06:d4c7:ffff:ffff:ffff:ffff:ffff:ffff",
+    "totalIps": -1,
+    "countryCode": null,
+    "maintainer": "ru-khimki-smi-2-mnt",
+    "lastSeenOn": "2023-10-22T04:15:41.693Z"
+  },
+  {
+    "asn": 48592,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "77.81.83.1",
+    "ipEnd": "77.81.83.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "mnt-ir-uznet-1",
+    "lastSeenOn": "2023-10-22T04:18:03.46Z"
+  },
+  {
+    "asn": 212517,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.251.10.1",
+    "ipEnd": "89.251.10.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "Parsun-MNT",
+    "lastSeenOn": "2023-10-22T04:28:46.811Z"
+  },
+  {
+    "asn": 49744,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "91.102.42.1",
+    "ipEnd": "91.102.42.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "mnt-uk-intuit-1",
+    "lastSeenOn": "2023-10-22T04:48:11.526Z"
+  },
+  {
+    "asn": 210726,
+    "owner": "ADVGROUP",
+    "ipVersion": "Ipv4",
+    "ipStart": "195.208.106.1",
+    "ipEnd": "195.208.106.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "ROSNIIROS-MNT",
+    "lastSeenOn": "2023-10-22T04:55:40.093Z"
+  },
+  {
+    "asn": 60949,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.42.84.1",
+    "ipEnd": "89.42.84.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T05:46:58.488Z"
+  },
+  {
+    "asn": 16230,
+    "owner": "LLC Skynet, Ekaterinburg, Russia",
+    "ipVersion": "Ipv4",
+    "ipStart": "217.144.176.1",
+    "ipEnd": "217.144.191.254",
+    "totalIps": 4094,
+    "countryCode": null,
+    "maintainer": "SKYNET-INC-MNT",
+    "lastSeenOn": "2023-10-22T05:59:47.626Z"
+  },
+  {
+    "asn": 211432,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "5.180.148.1",
+    "ipEnd": "5.180.149.254",
+    "totalIps": 510,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T06:10:37.495Z"
+  },
+  {
+    "asn": 265919,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "89.213.5.1",
+    "ipEnd": "89.213.5.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IPXO-MNT",
+    "lastSeenOn": "2023-10-22T06:18:59.469Z"
+  },
+  {
+    "asn": 47158,
+    "owner": null,
+    "ipVersion": "Ipv4",
+    "ipStart": "91.239.215.1",
+    "ipEnd": "91.239.215.254",
+    "totalIps": 254,
+    "countryCode": null,
+    "maintainer": "IP-RIPE",
+    "lastSeenOn": "2023-10-22T06:22:27.346Z"
   }
 ]

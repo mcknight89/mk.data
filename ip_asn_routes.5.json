@@ -1,50 +1,6 @@
 [
   {
     "asn": null,
-    "owner": "COSLINK",
-    "ipVersion": "Ipv4",
-    "ipStart": "69.24.127.0",
-    "ipEnd": "69.24.127.255",
-    "totalIps": 255,
-    "countryCode": 840,
-    "maintainer": null,
-    "lastSeenOn": "2023-10-01T02:42:39.194Z"
-  },
-  {
-    "asn": null,
-    "owner": "Not routed",
-    "ipVersion": "Ipv6",
-    "ipStart": "2804:988:c000::",
-    "ipEnd": "2804:98b:ffff:ffff:ffff:ffff:ffff:ffff",
-    "totalIps": 3,
-    "countryCode": null,
-    "maintainer": null,
-    "lastSeenOn": "2023-10-01T06:05:17.144Z"
-  },
-  {
-    "asn": null,
-    "owner": "GTT-BACKBONE GTT",
-    "ipVersion": "Ipv4",
-    "ipStart": "69.26.248.0",
-    "ipEnd": "69.26.255.255",
-    "totalIps": 2047,
-    "countryCode": 840,
-    "maintainer": null,
-    "lastSeenOn": "2023-10-01T02:42:44.292Z"
-  },
-  {
-    "asn": null,
-    "owner": "CZIO-ASN",
-    "ipVersion": "Ipv4",
-    "ipStart": "69.27.178.0",
-    "ipEnd": "69.27.191.255",
-    "totalIps": 3583,
-    "countryCode": 840,
-    "maintainer": null,
-    "lastSeenOn": "2023-10-01T02:42:44.444Z"
-  },
-  {
-    "asn": null,
     "owner": "WINDSTREAM",
     "ipVersion": "Ipv4",
     "ipStart": "69.30.128.0",

@@ -104002,5 +104002,17 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "mkzaso.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "indigobook.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

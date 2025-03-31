@@ -104014,5 +104014,41 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "boyaga.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "corhash.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gamebcs.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hihi.lol",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "holio.day",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "kein.date",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

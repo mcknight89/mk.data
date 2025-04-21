@@ -104098,5 +104098,23 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "ptct.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "thetechnext.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "1sec.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

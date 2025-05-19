@@ -104254,5 +104254,29 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "1trick.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ckvn.edu.vn",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "nghienplus.io.vn",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "tempmail.id.vn",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

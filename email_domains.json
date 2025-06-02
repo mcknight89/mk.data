@@ -105010,5 +105010,11 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "20minutesmail.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

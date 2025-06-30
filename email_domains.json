@@ -105934,5 +105934,47 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "1-second-mail.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "1secmail.space",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "1secmail.website",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "6n9.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aakk.link",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aakkmail.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "adn3t.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

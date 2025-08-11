@@ -107020,5 +107020,29 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "im5z.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mailbali.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "percyfx.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "reusable.email",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

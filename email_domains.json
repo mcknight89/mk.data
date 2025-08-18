@@ -107044,5 +107044,29 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "ahvin.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "cotasen.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "elobits.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "euleina.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

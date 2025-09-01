@@ -107068,5 +107068,35 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "jobzyy.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mona.edu.kg",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mona.edu.pl",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "temporam.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "emailwww.pro",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

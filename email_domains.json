@@ -108292,5 +108292,65 @@
     "disposable": true,
     "free": false,
     "blacklist": false
+  },
+  {
+    "domain": "disposely.xyz",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "disposly.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "easymails.cc",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "fastestflex.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "homecut.pro",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "inwagit.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "muonwhila.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mycreativeinbox.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "suftwari.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "temp-mail.lol",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
   }
 ]

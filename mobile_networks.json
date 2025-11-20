@@ -11745,7 +11745,7 @@
     "mcc": 432,
     "mnc": 93,
     "mccMnc": 43293,
-    "network": "Farzanegan Pars",
+    "network": "Iraphone",
     "countryName": "Iran",
     "iso": 364
   },
@@ -26275,7 +26275,7 @@
     "mcc": 250,
     "mnc": 12,
     "mccMnc": 25012,
-    "network": "",
+    "network": "Baykal Westcom / New Telephone Company / Far Eastern Cellular",
     "countryName": "Russia",
     "iso": 643
   },
@@ -32525,7 +32525,7 @@
     "mcc": 204,
     "mnc": 20,
     "mccMnc": 20420,
-    "network": "T-Mobile Netherlands B.V",
+    "network": "Odido",
     "countryName": "Netherlands",
     "iso": 528
   },
@@ -32565,7 +32565,7 @@
     "mcc": 204,
     "mnc": 16,
     "mccMnc": 20416,
-    "network": "T-Mobile Netherlands B.V",
+    "network": "Odido",
     "countryName": "Netherlands",
     "iso": 528
   },

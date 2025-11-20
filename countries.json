@@ -8,7 +8,7 @@
     "continent": "Africa",
     "currency": "Dinar",
     "isO2": "DZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "213",
     "languageCode": "ar-DZ",
     "timeZone": "Africa/Algiers"
@@ -22,7 +22,7 @@
     "continent": "Africa",
     "currency": "Kwanza",
     "isO2": "AO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "244",
     "languageCode": "pt-AO",
     "timeZone": "Africa/Lagos"
@@ -50,7 +50,7 @@
     "continent": "Africa",
     "currency": "Pula",
     "isO2": "BW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "267",
     "languageCode": "en-BW,tn-BW",
     "timeZone": "Africa/Maputo"
@@ -92,7 +92,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "CM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "237",
     "languageCode": "en-CM,fr-CM",
     "timeZone": "Africa/Lagos"
@@ -106,7 +106,7 @@
     "continent": "Africa",
     "currency": "Escudo",
     "isO2": "CV",
-    "languages": null,
+    "languages": "",
     "phoneCode": "238",
     "languageCode": "pt-CV",
     "timeZone": "Atlantic/Cape_Verde"
@@ -120,7 +120,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "CF",
-    "languages": null,
+    "languages": "",
     "phoneCode": "236",
     "languageCode": "fr-CF,sg,ln,kg",
     "timeZone": "Africa/Lagos"
@@ -134,7 +134,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "TD",
-    "languages": null,
+    "languages": "",
     "phoneCode": "235",
     "languageCode": "fr-TD,ar-TD,sre",
     "timeZone": "Africa/Ndjamena"
@@ -162,7 +162,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "CD",
-    "languages": null,
+    "languages": "",
     "phoneCode": "243",
     "languageCode": "fr-CD,ln,kg",
     "timeZone": "Africa/Lagos"
@@ -176,7 +176,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "DJ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "253",
     "languageCode": "fr-DJ,ar,so-DJ,aa",
     "timeZone": "Africa/Djibouti"
@@ -190,7 +190,7 @@
     "continent": "Africa",
     "currency": "Pound",
     "isO2": "EG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "20",
     "languageCode": "ar-EG,en,fr",
     "timeZone": "Africa/Cairo"
@@ -204,7 +204,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "GQ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "240",
     "languageCode": "es-GQ,fr",
     "timeZone": "Africa/Lagos"
@@ -218,7 +218,7 @@
     "continent": "Africa",
     "currency": "Nakfa",
     "isO2": "ER",
-    "languages": null,
+    "languages": "",
     "phoneCode": "291",
     "languageCode": "aa-ER,ar,tig,kun,ti-ER",
     "timeZone": "Africa/Asmara"
@@ -232,7 +232,7 @@
     "continent": "Africa",
     "currency": "Birr",
     "isO2": "ET",
-    "languages": null,
+    "languages": "",
     "phoneCode": "251",
     "languageCode": "am,en-ET,om-ET,ti-ET,so-ET,sid",
     "timeZone": "Africa/Addis_Ababa"
@@ -246,7 +246,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "GA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "241",
     "languageCode": "fr-GA",
     "timeZone": "Africa/Lagos"
@@ -260,7 +260,7 @@
     "continent": "Africa",
     "currency": "Dalasi",
     "isO2": "GM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "220",
     "languageCode": "en-GM,mnk,wof,wo,ff",
     "timeZone": "Africa/Abidjan"
@@ -274,7 +274,7 @@
     "continent": "Africa",
     "currency": "Cedi",
     "isO2": "GH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "233",
     "languageCode": "en-GH,ak,ee,tw",
     "timeZone": "Africa/Accra"
@@ -288,7 +288,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "GN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "224",
     "languageCode": "fr-GN",
     "timeZone": "Africa/Abidjan"
@@ -302,7 +302,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "GW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "245",
     "languageCode": "pt-GW,pov",
     "timeZone": "Africa/Bissau"
@@ -316,7 +316,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "CI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "225",
     "languageCode": "fr-CI",
     "timeZone": "Africa/Abidjan"
@@ -330,7 +330,7 @@
     "continent": "Africa",
     "currency": "Shilling",
     "isO2": "KE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "254",
     "languageCode": "en-KE,sw-KE",
     "timeZone": "Africa/Nairobi"
@@ -344,7 +344,7 @@
     "continent": "Africa",
     "currency": "Loti",
     "isO2": "LS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "266",
     "languageCode": "en-LS,st,zu,xh",
     "timeZone": "Africa/Johannesburg"
@@ -358,7 +358,7 @@
     "continent": "Africa",
     "currency": "Dollar",
     "isO2": "LR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "231",
     "languageCode": "en-LR",
     "timeZone": "Africa/Monrovia"
@@ -372,7 +372,7 @@
     "continent": "Africa",
     "currency": "Dinar",
     "isO2": "LY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "218",
     "languageCode": "ar-LY,it,en",
     "timeZone": "Africa/Tripoli"
@@ -386,7 +386,7 @@
     "continent": "Africa",
     "currency": "Ariary",
     "isO2": "MG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "261",
     "languageCode": "fr-MG,mg",
     "timeZone": "Indian/Antananarivo"
@@ -400,7 +400,7 @@
     "continent": "Africa",
     "currency": "Kwacha",
     "isO2": "MW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "265",
     "languageCode": "ny,yao,tum,swk",
     "timeZone": "Africa/Maputo"
@@ -414,7 +414,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "ML",
-    "languages": null,
+    "languages": "",
     "phoneCode": "223",
     "languageCode": "fr-ML,bm",
     "timeZone": "Africa/Abidjan"
@@ -428,7 +428,7 @@
     "continent": "Africa",
     "currency": "Ouguiya",
     "isO2": "MR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "222",
     "languageCode": "ar-MR,fuc,snk,fr,mey,wo",
     "timeZone": "Africa/Abidjan"
@@ -442,7 +442,7 @@
     "continent": "Africa",
     "currency": "Rupee",
     "isO2": "MU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "230",
     "languageCode": "en-MU,bho,fr",
     "timeZone": "Indian/Mauritius"
@@ -456,7 +456,7 @@
     "continent": "Africa",
     "currency": "Euro",
     "isO2": "YT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "262",
     "languageCode": "fr-YT",
     "timeZone": "Indian/Mayotte"
@@ -470,7 +470,7 @@
     "continent": "Africa",
     "currency": "Dirham",
     "isO2": "MA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "212",
     "languageCode": "ar-MA,fr",
     "timeZone": "Africa/Casablanca"
@@ -484,7 +484,7 @@
     "continent": "Africa",
     "currency": "Metical",
     "isO2": "MZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "258",
     "languageCode": "pt-MZ,vmw",
     "timeZone": "Africa/Maputo"
@@ -498,7 +498,7 @@
     "continent": "Africa",
     "currency": "Dollar",
     "isO2": "NA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "264",
     "languageCode": "en-NA,af,de,hz,naq",
     "timeZone": "Africa/Windhoek"
@@ -512,7 +512,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "NE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "227",
     "languageCode": "fr-NE,ha,kr,dje",
     "timeZone": "Africa/Lagos"
@@ -526,7 +526,7 @@
     "continent": "Africa",
     "currency": "Naira",
     "isO2": "NG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "234",
     "languageCode": "en-NG,ha,yo,ig,ff",
     "timeZone": "Africa/Lagos"
@@ -540,7 +540,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "CG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "242",
     "languageCode": "fr-CG,kg,ln-CG",
     "timeZone": "Africa/Lagos"
@@ -554,7 +554,7 @@
     "continent": "Africa",
     "currency": "Euro",
     "isO2": "RE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "262",
     "languageCode": "fr-RE",
     "timeZone": "Indian/Reunion"
@@ -568,7 +568,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "RW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "250",
     "languageCode": "rw,en-RW,fr-RW,sw",
     "timeZone": "Africa/Maputo"
@@ -582,7 +582,7 @@
     "continent": "Africa",
     "currency": "Pound",
     "isO2": "SH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "290",
     "languageCode": "en-SH",
     "timeZone": "Africa/Abidjan"
@@ -596,7 +596,7 @@
     "continent": "Africa",
     "currency": "Dobra",
     "isO2": "ST",
-    "languages": null,
+    "languages": "",
     "phoneCode": "239",
     "languageCode": "pt-ST",
     "timeZone": "Africa/Abidjan"
@@ -610,7 +610,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "SN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "221",
     "languageCode": "fr-SN,wo,fuc,mnk",
     "timeZone": "Africa/Abidjan"
@@ -624,7 +624,7 @@
     "continent": "Africa",
     "currency": "Rupee",
     "isO2": "SC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "248",
     "languageCode": "en-SC,fr-SC",
     "timeZone": "Indian/Mahe"
@@ -638,7 +638,7 @@
     "continent": "Africa",
     "currency": "Leone",
     "isO2": "SL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "232",
     "languageCode": "en-SL,men,tem",
     "timeZone": "Africa/Abidjan"
@@ -652,7 +652,7 @@
     "continent": "Africa",
     "currency": "Shilling",
     "isO2": "SO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "252",
     "languageCode": "so-SO,ar-SO,it,en-SO",
     "timeZone": "Africa/Mogadishu"
@@ -666,7 +666,7 @@
     "continent": "Africa",
     "currency": "Rand",
     "isO2": "ZA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "27",
     "languageCode": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
     "timeZone": "Africa/Johannesburg"
@@ -680,7 +680,7 @@
     "continent": "Africa",
     "currency": "Pound",
     "isO2": "SS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "211",
     "languageCode": "en",
     "timeZone": "Africa/Khartoum"
@@ -694,7 +694,7 @@
     "continent": "Africa",
     "currency": "Pound",
     "isO2": "SD",
-    "languages": null,
+    "languages": "",
     "phoneCode": "249",
     "languageCode": "ar-SD,en,fia",
     "timeZone": "Africa/Khartoum"
@@ -708,7 +708,7 @@
     "continent": "Africa",
     "currency": "Lilangeni",
     "isO2": "SZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "268",
     "languageCode": "en-SZ,ss-SZ",
     "timeZone": "Africa/Johannesburg"
@@ -722,7 +722,7 @@
     "continent": "Africa",
     "currency": "Shilling",
     "isO2": "TZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "255",
     "languageCode": "sw-TZ,en,ar",
     "timeZone": "Africa/Dar_es_Salaam"
@@ -736,7 +736,7 @@
     "continent": "Africa",
     "currency": "Franc",
     "isO2": "TG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "228",
     "languageCode": "fr-TG,ee,hna,kbp,dag,ha",
     "timeZone": "Africa/Abidjan"
@@ -750,7 +750,7 @@
     "continent": "Africa",
     "currency": "Dinar",
     "isO2": "TN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "216",
     "languageCode": "ar-TN,fr",
     "timeZone": "Africa/Tunis"
@@ -764,7 +764,7 @@
     "continent": "Africa",
     "currency": "Shilling",
     "isO2": "UG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "256",
     "languageCode": "en-UG,lg,sw,ar",
     "timeZone": "Africa/Kampala"
@@ -778,7 +778,7 @@
     "continent": "Africa",
     "currency": "Dirham",
     "isO2": "EH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "212",
     "languageCode": "ar,mey",
     "timeZone": "Africa/El_Aaiun"
@@ -792,7 +792,7 @@
     "continent": "Africa",
     "currency": "Kwacha",
     "isO2": "ZM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "260",
     "languageCode": "en-ZM,bem,loz,lun,lue,ny,toi",
     "timeZone": "Africa/Maputo"
@@ -806,7 +806,7 @@
     "continent": "Africa",
     "currency": "Dollar",
     "isO2": "ZW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "263",
     "languageCode": "en-ZW,sn,nr,nd",
     "timeZone": "Africa/Maputo"
@@ -848,7 +848,7 @@
     "continent": "Asia",
     "currency": "Dram",
     "isO2": "AM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "374",
     "languageCode": "hy",
     "timeZone": "Asia/Yerevan"
@@ -862,7 +862,7 @@
     "continent": "Asia",
     "currency": "Manat",
     "isO2": "AZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "994",
     "languageCode": "az,ru,hy",
     "timeZone": "Asia/Baku"
@@ -876,7 +876,7 @@
     "continent": "Asia",
     "currency": "Dinar",
     "isO2": "BH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "973",
     "languageCode": "ar-BH,en,fa,ur",
     "timeZone": "Asia/Bahrain"
@@ -904,7 +904,7 @@
     "continent": "Asia",
     "currency": "Ngultrum",
     "isO2": "BT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "975",
     "languageCode": "dz",
     "timeZone": "Asia/Thimphu"
@@ -918,7 +918,7 @@
     "continent": "Asia",
     "currency": "Dollar",
     "isO2": "IO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "246",
     "languageCode": "en-IO",
     "timeZone": "Indian/Chagos"
@@ -932,7 +932,7 @@
     "continent": "Asia",
     "currency": "Dollar",
     "isO2": "BN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "673",
     "languageCode": "ms-BN,en-BN",
     "timeZone": "Asia/Brunei"
@@ -1002,7 +1002,7 @@
     "continent": "Asia",
     "currency": "Lari",
     "isO2": "GE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "995",
     "languageCode": "ka,ru,hy,az",
     "timeZone": "Asia/Tbilisi"
@@ -1016,7 +1016,7 @@
     "continent": "Asia",
     "currency": "Dollar",
     "isO2": "HK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "852",
     "languageCode": "zh-HK,yue,zh,en",
     "timeZone": "Asia/Hong_Kong"
@@ -1030,7 +1030,7 @@
     "continent": "Asia",
     "currency": "Rupee",
     "isO2": "IN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "91",
     "languageCode": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
     "timeZone": "Asia/Kolkata"
@@ -1044,7 +1044,7 @@
     "continent": "Asia",
     "currency": "Rupiah",
     "isO2": "ID",
-    "languages": null,
+    "languages": "",
     "phoneCode": "62",
     "languageCode": "id,en,nl,jv",
     "timeZone": "Asia/Jakarta"
@@ -1058,7 +1058,7 @@
     "continent": "Asia",
     "currency": "Rial",
     "isO2": "IR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "98",
     "languageCode": "fa-IR,ku",
     "timeZone": "Asia/Tehran"
@@ -1072,7 +1072,7 @@
     "continent": "Asia",
     "currency": "Dinar",
     "isO2": "IQ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "964",
     "languageCode": "ar-IQ,ku,hy",
     "timeZone": "Asia/Baghdad"
@@ -1086,7 +1086,7 @@
     "continent": "Asia",
     "currency": "Shekel",
     "isO2": "IL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "972",
     "languageCode": "he,ar-IL,en-IL,",
     "timeZone": "Asia/Jerusalem"
@@ -1100,7 +1100,7 @@
     "continent": "Asia",
     "currency": "Yen",
     "isO2": "JP",
-    "languages": null,
+    "languages": "",
     "phoneCode": "81",
     "languageCode": "ja",
     "timeZone": "Asia/Tokyo"
@@ -1114,7 +1114,7 @@
     "continent": "Asia",
     "currency": "Dinar",
     "isO2": "JO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "962",
     "languageCode": "ar-JO,en",
     "timeZone": "Asia/Amman"
@@ -1128,7 +1128,7 @@
     "continent": "Asia",
     "currency": "Tenge",
     "isO2": "KZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "7",
     "languageCode": "kk,ru",
     "timeZone": "Asia/Almaty"
@@ -1142,7 +1142,7 @@
     "continent": "Asia",
     "currency": "Dinar",
     "isO2": "KW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "965",
     "languageCode": "ar-KW,en",
     "timeZone": "Asia/Kuwait"
@@ -1156,7 +1156,7 @@
     "continent": "Asia",
     "currency": "Som",
     "isO2": "KG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "996",
     "languageCode": "ky,uz,ru",
     "timeZone": "Asia/Bishkek"
@@ -1170,7 +1170,7 @@
     "continent": "Asia",
     "currency": "Kip",
     "isO2": "LA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "856",
     "languageCode": "lo,fr,en",
     "timeZone": "Asia/Vientiane"
@@ -1184,7 +1184,7 @@
     "continent": "Asia",
     "currency": "Pound",
     "isO2": "LB",
-    "languages": null,
+    "languages": "",
     "phoneCode": "961",
     "languageCode": "ar-LB,fr-LB,en,hy",
     "timeZone": "Asia/Beirut"
@@ -1198,7 +1198,7 @@
     "continent": "Asia",
     "currency": "Pataca",
     "isO2": "MO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "853",
     "languageCode": "zh,zh-MO,pt",
     "timeZone": "Asia/Macau"
@@ -1212,7 +1212,7 @@
     "continent": "Asia",
     "currency": "Ringgit",
     "isO2": "MY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "60",
     "languageCode": "ms-MY,en,zh,ta,te,ml,pa,th",
     "timeZone": "Asia/Kuala_Lumpur"
@@ -1226,7 +1226,7 @@
     "continent": "Asia",
     "currency": "Rufiyaa",
     "isO2": "MV",
-    "languages": null,
+    "languages": "",
     "phoneCode": "960",
     "languageCode": "dv,en",
     "timeZone": "Indian/Maldives"
@@ -1240,7 +1240,7 @@
     "continent": "Asia",
     "currency": "Tugrik",
     "isO2": "MN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "976",
     "languageCode": "mn,ru",
     "timeZone": "Asia/Ulaanbaatar"
@@ -1254,7 +1254,7 @@
     "continent": "Asia",
     "currency": "Kyat",
     "isO2": "MM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "95",
     "languageCode": "my",
     "timeZone": "Asia/Rangoon"
@@ -1268,7 +1268,7 @@
     "continent": "Asia",
     "currency": "Rupee",
     "isO2": "NP",
-    "languages": null,
+    "languages": "",
     "phoneCode": "977",
     "languageCode": "ne,en",
     "timeZone": "Asia/Kathmandu"
@@ -1282,7 +1282,7 @@
     "continent": "Asia",
     "currency": "Won",
     "isO2": "KP",
-    "languages": null,
+    "languages": "",
     "phoneCode": "850",
     "languageCode": "ko-KP",
     "timeZone": "Asia/Pyongyang"
@@ -1296,7 +1296,7 @@
     "continent": "Asia",
     "currency": "Rial",
     "isO2": "OM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "968",
     "languageCode": "ar-OM,en,bal,ur",
     "timeZone": "Asia/Muscat"
@@ -1310,7 +1310,7 @@
     "continent": "Asia",
     "currency": "Rupee",
     "isO2": "PK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "92",
     "languageCode": "ur-PK,en-PK,pa,sd,ps,brh",
     "timeZone": "Asia/Karachi"
@@ -1324,7 +1324,7 @@
     "continent": "Asia",
     "currency": "Shekel",
     "isO2": "PS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "970",
     "languageCode": "ar-PS",
     "timeZone": "Asia/Hebron"
@@ -1338,7 +1338,7 @@
     "continent": "Asia",
     "currency": "Peso",
     "isO2": "PH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "63",
     "languageCode": "tl,en-PH,fil",
     "timeZone": "Asia/Manila"
@@ -1352,7 +1352,7 @@
     "continent": "Asia",
     "currency": "Rial",
     "isO2": "QA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "974",
     "languageCode": "ar-QA,es",
     "timeZone": "Asia/Qatar"
@@ -1366,7 +1366,7 @@
     "continent": "Asia",
     "currency": "Rial",
     "isO2": "SA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "966",
     "languageCode": "ar-SA",
     "timeZone": "Asia/Riyadh"
@@ -1380,7 +1380,7 @@
     "continent": "Asia",
     "currency": "Dollar",
     "isO2": "SG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "65",
     "languageCode": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
     "timeZone": "Asia/Singapore"
@@ -1394,7 +1394,7 @@
     "continent": "Asia",
     "currency": "Won",
     "isO2": "KR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "82",
     "languageCode": "ko-KR,en",
     "timeZone": "Asia/Seoul"
@@ -1408,7 +1408,7 @@
     "continent": "Asia",
     "currency": "Rupee",
     "isO2": "LK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "94",
     "languageCode": "si,ta,en",
     "timeZone": "Asia/Colombo"
@@ -1422,7 +1422,7 @@
     "continent": "Asia",
     "currency": "Pound",
     "isO2": "SY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "963",
     "languageCode": "ar-SY,ku,hy,arc,fr,en",
     "timeZone": "Asia/Damascus"
@@ -1436,7 +1436,7 @@
     "continent": "Asia",
     "currency": "Dollar",
     "isO2": "TW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "886",
     "languageCode": "zh-TW,zh,nan,hak",
     "timeZone": "Asia/Taipei"
@@ -1450,7 +1450,7 @@
     "continent": "Asia",
     "currency": "Somoni",
     "isO2": "TJ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "992",
     "languageCode": "tg,ru",
     "timeZone": "Asia/Dushanbe"
@@ -1464,7 +1464,7 @@
     "continent": "Asia",
     "currency": "Baht",
     "isO2": "TH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "66",
     "languageCode": "th,en",
     "timeZone": "Asia/Bangkok"
@@ -1478,7 +1478,7 @@
     "continent": "Asia",
     "currency": "Lira",
     "isO2": "TR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "90",
     "languageCode": "tr-TR,ku,diq,az,av",
     "timeZone": "Europe/Istanbul"
@@ -1492,7 +1492,7 @@
     "continent": "Asia",
     "currency": "Manat",
     "isO2": "TM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "993",
     "languageCode": "tk,ru,uz",
     "timeZone": "Asia/Ashgabat"
@@ -1506,7 +1506,7 @@
     "continent": "Asia",
     "currency": "Dirham",
     "isO2": "AE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "971",
     "languageCode": "ar-AE,fa,en,hi,ur",
     "timeZone": "Asia/Dubai"
@@ -1520,7 +1520,7 @@
     "continent": "Asia",
     "currency": "Som",
     "isO2": "UZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "998",
     "languageCode": "uz,ru,tg",
     "timeZone": "Asia/Tashkent"
@@ -1534,7 +1534,7 @@
     "continent": "Asia",
     "currency": "Dong",
     "isO2": "VN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "84",
     "languageCode": "vi,en,fr,zh,km",
     "timeZone": "Asia/Ho_Chi_Minh"
@@ -1548,7 +1548,7 @@
     "continent": "Asia",
     "currency": "Rial",
     "isO2": "YE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "967",
     "languageCode": "ar-YE",
     "timeZone": "Asia/Aden"
@@ -1576,7 +1576,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "AD",
-    "languages": null,
+    "languages": "",
     "phoneCode": "376",
     "languageCode": "ca",
     "timeZone": "Europe/Andorra"
@@ -1590,7 +1590,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "AT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "43",
     "languageCode": "de-AT,hr,hu,sl",
     "timeZone": "Europe/Vienna"
@@ -1618,7 +1618,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "BE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "32",
     "languageCode": "nl-BE,fr-BE,de-BE",
     "timeZone": "Europe/Brussels"
@@ -1674,7 +1674,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "CY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "357",
     "languageCode": "el-CY,tr-CY,en",
     "timeZone": "Asia/Nicosia"
@@ -1688,7 +1688,7 @@
     "continent": "Europe",
     "currency": "Koruna",
     "isO2": "CZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "420",
     "languageCode": "cs,sk",
     "timeZone": "Europe/Prague"
@@ -1702,7 +1702,7 @@
     "continent": "Europe",
     "currency": "Krone",
     "isO2": "DK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "45",
     "languageCode": "da-DK,en,fo,de-DK",
     "timeZone": "Europe/Copenhagen"
@@ -1716,7 +1716,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "EE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "372",
     "languageCode": "et,ru",
     "timeZone": "Europe/Tallinn"
@@ -1730,7 +1730,7 @@
     "continent": "Europe",
     "currency": "Krone",
     "isO2": "FO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "298",
     "languageCode": "fo,da-FO",
     "timeZone": "Atlantic/Faroe"
@@ -1744,7 +1744,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "FI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "358",
     "languageCode": "fi-FI,sv-FI,smn",
     "timeZone": "Europe/Helsinki"
@@ -1758,7 +1758,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "FR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "33",
     "languageCode": "fr-FR,frp,br,co,ca,eu,oc",
     "timeZone": "Europe/Paris"
@@ -1772,7 +1772,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "DE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "49",
     "languageCode": "de",
     "timeZone": "Europe/Berlin"
@@ -1786,7 +1786,7 @@
     "continent": "Europe",
     "currency": "Pound",
     "isO2": "GI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "350",
     "languageCode": "en-GI,es,it,pt",
     "timeZone": "Europe/Gibraltar"
@@ -1800,7 +1800,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "GR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "30",
     "languageCode": "el-GR,en,fr",
     "timeZone": "Europe/Athens"
@@ -1814,7 +1814,7 @@
     "continent": "Europe",
     "currency": "Pound",
     "isO2": "GG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "44-1481",
     "languageCode": "en,fr",
     "timeZone": "Europe/London"
@@ -1828,7 +1828,7 @@
     "continent": "Europe",
     "currency": "Forint",
     "isO2": "HU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "36",
     "languageCode": "hu-HU",
     "timeZone": "Europe/Budapest"
@@ -1842,7 +1842,7 @@
     "continent": "Europe",
     "currency": "Krona",
     "isO2": "IS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "354",
     "languageCode": "is,en,de,da,sv,no",
     "timeZone": "Atlantic/Reykjavik"
@@ -1856,7 +1856,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "IE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "353",
     "languageCode": "en-IE,ga-IE",
     "timeZone": "Europe/Dublin"
@@ -1870,7 +1870,7 @@
     "continent": "Europe",
     "currency": "Pound",
     "isO2": "IM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "44-1624",
     "languageCode": "en,gv",
     "timeZone": "Europe/London"
@@ -1884,7 +1884,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "IT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "39",
     "languageCode": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
     "timeZone": "Europe/Rome"
@@ -1898,7 +1898,7 @@
     "continent": "Europe",
     "currency": "Pound",
     "isO2": "JE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "44-1534",
     "languageCode": "en,pt",
     "timeZone": "Europe/London"
@@ -1912,7 +1912,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "XK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "383",
     "languageCode": "sq,sr",
     "timeZone": "Europe/Belgrade"
@@ -1926,7 +1926,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "LV",
-    "languages": null,
+    "languages": "",
     "phoneCode": "371",
     "languageCode": "lv,ru,lt",
     "timeZone": "Europe/Riga"
@@ -1940,7 +1940,7 @@
     "continent": "Europe",
     "currency": "Franc",
     "isO2": "LI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "423",
     "languageCode": "de-LI",
     "timeZone": "Europe/Zurich"
@@ -1954,7 +1954,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "LT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "370",
     "languageCode": "lt,ru,pl",
     "timeZone": "Europe/Vilnius"
@@ -1968,7 +1968,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "LU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "352",
     "languageCode": "lb,de-LU,fr-LU",
     "timeZone": "Europe/Luxembourg"
@@ -1982,7 +1982,7 @@
     "continent": "Europe",
     "currency": "Denar",
     "isO2": "MK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "389",
     "languageCode": "mk,sq,tr,rmm,sr",
     "timeZone": "Europe/Belgrade"
@@ -1996,7 +1996,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "MT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "356",
     "languageCode": "mt,en-MT",
     "timeZone": "Europe/Malta"
@@ -2010,7 +2010,7 @@
     "continent": "Europe",
     "currency": "Leu",
     "isO2": "MD",
-    "languages": null,
+    "languages": "",
     "phoneCode": "373",
     "languageCode": "ro,ru,gag,tr",
     "timeZone": "Europe/Chisinau"
@@ -2024,7 +2024,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "MC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "377",
     "languageCode": "fr-MC,en,it",
     "timeZone": "Europe/Monaco"
@@ -2038,7 +2038,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "ME",
-    "languages": null,
+    "languages": "",
     "phoneCode": "382",
     "languageCode": "sr,hu,bs,sq,hr,rom",
     "timeZone": "Europe/Belgrade"
@@ -2052,7 +2052,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "NL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "31",
     "languageCode": "nl-NL,fy-NL",
     "timeZone": "Europe/Amsterdam"
@@ -2066,7 +2066,7 @@
     "continent": "Europe",
     "currency": "Krone",
     "isO2": "NO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "47",
     "languageCode": "no,nb,nn,se,fi",
     "timeZone": "Europe/Oslo"
@@ -2080,7 +2080,7 @@
     "continent": "Europe",
     "currency": "Zloty",
     "isO2": "PL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "48",
     "languageCode": "pl",
     "timeZone": "Europe/Warsaw"
@@ -2094,7 +2094,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "PT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "351",
     "languageCode": "pt-PT,mwl",
     "timeZone": "Europe/Lisbon"
@@ -2108,7 +2108,7 @@
     "continent": "Europe",
     "currency": "Leu",
     "isO2": "RO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "40",
     "languageCode": "ro,hu,rom",
     "timeZone": "Europe/Bucharest"
@@ -2122,7 +2122,7 @@
     "continent": "Europe",
     "currency": "Ruble",
     "isO2": "RU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "7",
     "languageCode": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",
     "timeZone": "Europe/Moscow"
@@ -2136,7 +2136,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "SM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "378",
     "languageCode": "it-SM",
     "timeZone": "Europe/Rome"
@@ -2150,7 +2150,7 @@
     "continent": "Europe",
     "currency": "Dinar",
     "isO2": "RS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "381",
     "languageCode": "sr,hu,bs,rom",
     "timeZone": "Europe/Belgrade"
@@ -2164,7 +2164,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "SK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "421",
     "languageCode": "sk,hu",
     "timeZone": "Europe/Prague"
@@ -2178,7 +2178,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "SI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "386",
     "languageCode": "sl,sh",
     "timeZone": "Europe/Belgrade"
@@ -2192,7 +2192,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "ES",
-    "languages": null,
+    "languages": "",
     "phoneCode": "34",
     "languageCode": "es-ES,ca,gl,eu,oc",
     "timeZone": "Europe/Madrid"
@@ -2206,7 +2206,7 @@
     "continent": "Europe",
     "currency": "Krone",
     "isO2": "SJ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "47",
     "languageCode": "no,ru",
     "timeZone": "Europe/Oslo"
@@ -2220,7 +2220,7 @@
     "continent": "Europe",
     "currency": "Krona",
     "isO2": "SE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "46",
     "languageCode": "sv-SE,se,sma,fi-SE",
     "timeZone": "Europe/Stockholm"
@@ -2234,7 +2234,7 @@
     "continent": "Europe",
     "currency": "Franc",
     "isO2": "CH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "41",
     "languageCode": "de-CH,fr-CH,it-CH,rm",
     "timeZone": "Europe/Zurich"
@@ -2248,7 +2248,7 @@
     "continent": "Europe",
     "currency": "Hryvnia",
     "isO2": "UA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "380",
     "languageCode": "uk,ru-UA,rom,pl,hu",
     "timeZone": "Europe/Kiev"
@@ -2262,7 +2262,7 @@
     "continent": "Europe",
     "currency": "Pound",
     "isO2": "GB",
-    "languages": null,
+    "languages": "",
     "phoneCode": "44",
     "languageCode": "en-GB,cy-GB,gd",
     "timeZone": "Europe/London"
@@ -2276,7 +2276,7 @@
     "continent": "Europe",
     "currency": "Euro",
     "isO2": "VA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "379",
     "languageCode": "la,it,fr",
     "timeZone": "Europe/Rome"
@@ -2360,7 +2360,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "BZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "501",
     "languageCode": "en-BZ,es",
     "timeZone": "America/Belize"
@@ -2374,7 +2374,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "BM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-441",
     "languageCode": "en-BM,pt",
     "timeZone": "Atlantic/Bermuda"
@@ -2430,7 +2430,7 @@
     "continent": "North America",
     "currency": "Colon",
     "isO2": "CR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "506",
     "languageCode": "es-CR,en",
     "timeZone": "America/Costa_Rica"
@@ -2444,7 +2444,7 @@
     "continent": "North America",
     "currency": "Peso",
     "isO2": "CU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "53",
     "languageCode": "es-CU",
     "timeZone": "America/Havana"
@@ -2458,7 +2458,7 @@
     "continent": "North America",
     "currency": "Guilder",
     "isO2": "CW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "599",
     "languageCode": "nl,pap",
     "timeZone": "America/Curacao"
@@ -2472,7 +2472,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "DM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-767",
     "languageCode": "en-DM",
     "timeZone": "America/Port_of_Spain"
@@ -2486,7 +2486,7 @@
     "continent": "North America",
     "currency": "Peso",
     "isO2": "DO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-809, 1-829, 1-849",
     "languageCode": "es-DO",
     "timeZone": "America/Santo_Domingo"
@@ -2500,7 +2500,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "SV",
-    "languages": null,
+    "languages": "",
     "phoneCode": "503",
     "languageCode": "es-SV",
     "timeZone": "America/El_Salvador"
@@ -2514,7 +2514,7 @@
     "continent": "North America",
     "currency": "Krone",
     "isO2": "GL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "299",
     "languageCode": "kl,da-GL,en",
     "timeZone": "America/Godthab"
@@ -2528,7 +2528,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "GD",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-473",
     "languageCode": "en-GD",
     "timeZone": "America/Port_of_Spain"
@@ -2542,7 +2542,7 @@
     "continent": "North America",
     "currency": "Quetzal",
     "isO2": "GT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "502",
     "languageCode": "es-GT",
     "timeZone": "America/Guatemala"
@@ -2556,7 +2556,7 @@
     "continent": "North America",
     "currency": "Gourde",
     "isO2": "HT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "509",
     "languageCode": "ht,fr-HT",
     "timeZone": "America/Port-au-Prince"
@@ -2570,7 +2570,7 @@
     "continent": "North America",
     "currency": "Lempira",
     "isO2": "HN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "504",
     "languageCode": "es-HN",
     "timeZone": "America/Tegucigalpa"
@@ -2584,7 +2584,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "JM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-876",
     "languageCode": "en-JM",
     "timeZone": "America/Jamaica"
@@ -2598,7 +2598,7 @@
     "continent": "North America",
     "currency": "Peso",
     "isO2": "MX",
-    "languages": null,
+    "languages": "",
     "phoneCode": "52",
     "languageCode": "es-MX",
     "timeZone": "America/Mexico_City"
@@ -2612,7 +2612,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "MS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-664",
     "languageCode": "en-MS",
     "timeZone": "America/Port_of_Spain"
@@ -2626,7 +2626,7 @@
     "continent": "North America",
     "currency": "Guilder",
     "isO2": "AN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "599",
     "languageCode": "nl-AN,en,es",
     "timeZone": "America/Curacao"
@@ -2640,7 +2640,7 @@
     "continent": "North America",
     "currency": "Cordoba",
     "isO2": "NI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "505",
     "languageCode": "es-NI,en",
     "timeZone": "America/Managua"
@@ -2654,7 +2654,7 @@
     "continent": "North America",
     "currency": "Balboa",
     "isO2": "PA",
-    "languages": null,
+    "languages": "",
     "phoneCode": "507",
     "languageCode": "es-PA,en",
     "timeZone": "America/Panama"
@@ -2668,7 +2668,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "PR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-787, 1-939",
     "languageCode": "en-PR,es-PR",
     "timeZone": "America/Puerto_Rico"
@@ -2682,7 +2682,7 @@
     "continent": "North America",
     "currency": "Euro",
     "isO2": "BL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "590",
     "languageCode": "fr",
     "timeZone": "America/Port_of_Spain"
@@ -2696,7 +2696,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "KN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-869",
     "languageCode": "en-KN",
     "timeZone": "America/Port_of_Spain"
@@ -2710,7 +2710,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "LC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-758",
     "languageCode": "en-LC",
     "timeZone": "America/Port_of_Spain"
@@ -2724,7 +2724,7 @@
     "continent": "North America",
     "currency": "Euro",
     "isO2": "MF",
-    "languages": null,
+    "languages": "",
     "phoneCode": "590",
     "languageCode": "fr",
     "timeZone": "America/Port_of_Spain"
@@ -2738,7 +2738,7 @@
     "continent": "North America",
     "currency": "Euro",
     "isO2": "PM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "508",
     "languageCode": "fr-PM",
     "timeZone": "America/Miquelon"
@@ -2752,7 +2752,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "VC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-784",
     "languageCode": "en-VC,fr",
     "timeZone": "America/Port_of_Spain"
@@ -2766,7 +2766,7 @@
     "continent": "North America",
     "currency": "Guilder",
     "isO2": "SX",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-721",
     "languageCode": "nl,en",
     "timeZone": "America/Curacao"
@@ -2780,7 +2780,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "TT",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-868",
     "languageCode": "en-TT,hns,fr,es,zh",
     "timeZone": "America/Port_of_Spain"
@@ -2794,7 +2794,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "TC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-649",
     "languageCode": "en-TC",
     "timeZone": "America/Grand_Turk"
@@ -2808,7 +2808,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "VI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-340",
     "languageCode": "en-VI",
     "timeZone": "America/Port_of_Spain"
@@ -2822,7 +2822,7 @@
     "continent": "North America",
     "currency": "Dollar",
     "isO2": "US",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1",
     "languageCode": "en-US,es-US,haw,fr",
     "timeZone": "America/New_York"
@@ -2836,7 +2836,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "AS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-684",
     "languageCode": "en-AS,sm,to",
     "timeZone": "Pacific/Pago_Pago"
@@ -2864,7 +2864,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "CK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "682",
     "languageCode": "en-CK,mi",
     "timeZone": "Pacific/Rarotonga"
@@ -2878,7 +2878,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "TL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "670",
     "languageCode": "tet,pt-TL,id,en",
     "timeZone": "Asia/Dili"
@@ -2892,7 +2892,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "FJ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "679",
     "languageCode": "en-FJ,fj",
     "timeZone": "Pacific/Fiji"
@@ -2906,7 +2906,7 @@
     "continent": "Oceania",
     "currency": "Franc",
     "isO2": "PF",
-    "languages": null,
+    "languages": "",
     "phoneCode": "689",
     "languageCode": "fr-PF,ty",
     "timeZone": "Pacific/Tahiti"
@@ -2920,7 +2920,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "GU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-671",
     "languageCode": "en-GU,ch-GU",
     "timeZone": "Pacific/Guam"
@@ -2934,7 +2934,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "KI",
-    "languages": null,
+    "languages": "",
     "phoneCode": "686",
     "languageCode": "en-KI,gil",
     "timeZone": "Pacific/Tarawa"
@@ -2948,7 +2948,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "MH",
-    "languages": null,
+    "languages": "",
     "phoneCode": "692",
     "languageCode": "mh,en-MH",
     "timeZone": "Pacific/Majuro"
@@ -2962,7 +2962,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "FM",
-    "languages": null,
+    "languages": "",
     "phoneCode": "691",
     "languageCode": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
     "timeZone": "Pacific/Pohnpei"
@@ -2976,7 +2976,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "NR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "674",
     "languageCode": "na,en-NR",
     "timeZone": "Pacific/Nauru"
@@ -2990,7 +2990,7 @@
     "continent": "Oceania",
     "currency": "Franc",
     "isO2": "NC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "687",
     "languageCode": "fr-NC",
     "timeZone": "Pacific/Noumea"
@@ -3004,7 +3004,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "NZ",
-    "languages": null,
+    "languages": "",
     "phoneCode": "64",
     "languageCode": "en-NZ,mi",
     "timeZone": "Pacific/Auckland"
@@ -3018,7 +3018,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "NU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "683",
     "languageCode": "niu,en-NU",
     "timeZone": "Pacific/Niue"
@@ -3032,7 +3032,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "MP",
-    "languages": null,
+    "languages": "",
     "phoneCode": "1-670",
     "languageCode": "fil,tl,zh,ch-MP,en-MP",
     "timeZone": "Pacific/Saipan"
@@ -3046,7 +3046,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "PW",
-    "languages": null,
+    "languages": "",
     "phoneCode": "680",
     "languageCode": "pau,sov,en-PW,tox,ja,fil,zh",
     "timeZone": "Pacific/Palau"
@@ -3060,7 +3060,7 @@
     "continent": "Oceania",
     "currency": "Kina",
     "isO2": "PG",
-    "languages": null,
+    "languages": "",
     "phoneCode": "675",
     "languageCode": "en-PG,ho,meu,tpi",
     "timeZone": "Pacific/Port_Moresby"
@@ -3074,7 +3074,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "PN",
-    "languages": null,
+    "languages": "",
     "phoneCode": "64",
     "languageCode": "en-PN",
     "timeZone": "Pacific/Pitcairn"
@@ -3088,7 +3088,7 @@
     "continent": "Oceania",
     "currency": "Tala",
     "isO2": "WS",
-    "languages": null,
+    "languages": "",
     "phoneCode": "685",
     "languageCode": "sm,en-WS",
     "timeZone": "Pacific/Apia"
@@ -3102,7 +3102,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "SB",
-    "languages": null,
+    "languages": "",
     "phoneCode": "677",
     "languageCode": "en-SB,tpi",
     "timeZone": "Pacific/Guadalcanal"
@@ -3116,7 +3116,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "TK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "690",
     "languageCode": "tkl,en-TK",
     "timeZone": "Pacific/Fakaofo"
@@ -3130,7 +3130,7 @@
     "continent": "Oceania",
     "currency": "Pa'anga",
     "isO2": "TO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "676",
     "languageCode": "to,en-TO",
     "timeZone": "Pacific/Tongatapu"
@@ -3144,7 +3144,7 @@
     "continent": "Oceania",
     "currency": "Dollar",
     "isO2": "TV",
-    "languages": null,
+    "languages": "",
     "phoneCode": "688",
     "languageCode": "tvl,en,sm,gil",
     "timeZone": "Pacific/Funafuti"
@@ -3158,7 +3158,7 @@
     "continent": "Oceania",
     "currency": "Vatu",
     "isO2": "VU",
-    "languages": null,
+    "languages": "",
     "phoneCode": "678",
     "languageCode": "bi,en-VU,fr-VU",
     "timeZone": "Pacific/Efate"
@@ -3172,7 +3172,7 @@
     "continent": "Oceania",
     "currency": "Franc",
     "isO2": "WF",
-    "languages": null,
+    "languages": "",
     "phoneCode": "681",
     "languageCode": "wls,fud,fr-WF",
     "timeZone": "Pacific/Wallis"
@@ -3200,7 +3200,7 @@
     "continent": "South America",
     "currency": "Boliviano",
     "isO2": "BO",
-    "languages": null,
+    "languages": "",
     "phoneCode": "591",
     "languageCode": "es-BO,qu,ay",
     "timeZone": "America/La_Paz"
@@ -3228,7 +3228,7 @@
     "continent": "South America",
     "currency": "Peso",
     "isO2": "CL",
-    "languages": null,
+    "languages": "",
     "phoneCode": "56",
     "languageCode": "es-CL",
     "timeZone": "America/Santiago"
@@ -3256,7 +3256,7 @@
     "continent": "South America",
     "currency": "Dollar",
     "isO2": "EC",
-    "languages": null,
+    "languages": "",
     "phoneCode": "593",
     "languageCode": "es-EC",
     "timeZone": "America/Guayaquil"
@@ -3270,7 +3270,7 @@
     "continent": "South America",
     "currency": "Pound",
     "isO2": "FK",
-    "languages": null,
+    "languages": "",
     "phoneCode": "500",
     "languageCode": "en-FK",
     "timeZone": "Atlantic/Stanley"
@@ -3284,7 +3284,7 @@
     "continent": "South America",
     "currency": "Dollar",
     "isO2": "GY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "592",
     "languageCode": "en-GY",
     "timeZone": "America/Guyana"
@@ -3298,7 +3298,7 @@
     "continent": "South America",
     "currency": "Guarani",
     "isO2": "PY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "595",
     "languageCode": "es-PY,gn",
     "timeZone": "America/Asuncion"
@@ -3312,7 +3312,7 @@
     "continent": "South America",
     "currency": "Sol",
     "isO2": "PE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "51",
     "languageCode": "es-PE,qu,ay",
     "timeZone": "America/Lima"
@@ -3326,7 +3326,7 @@
     "continent": "South America",
     "currency": "Dollar",
     "isO2": "SR",
-    "languages": null,
+    "languages": "",
     "phoneCode": "597",
     "languageCode": "nl-SR,en,srn,hns,jv",
     "timeZone": "America/Paramaribo"
@@ -3340,7 +3340,7 @@
     "continent": "South America",
     "currency": "Peso",
     "isO2": "UY",
-    "languages": null,
+    "languages": "",
     "phoneCode": "598",
     "languageCode": "es-UY",
     "timeZone": "America/Montevideo"
@@ -3354,7 +3354,7 @@
     "continent": "South America",
     "currency": "Bolivar",
     "isO2": "VE",
-    "languages": null,
+    "languages": "",
     "phoneCode": "58",
     "languageCode": "es-VE",
     "timeZone": "America/Caracas"

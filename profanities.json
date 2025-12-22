@@ -1245,11 +1245,6 @@
     "language": "English"
   },
   {
-    "text": "bimbo",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "bimbos",
     "languageCode": "en",
     "language": "English"
@@ -6380,11 +6375,6 @@
     "language": "English"
   },
   {
-    "text": "hoer",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "hoes",
     "languageCode": "en",
     "language": "English"
@@ -7330,11 +7320,6 @@
     "language": "English"
   },
   {
-    "text": "klootzak",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "knobbing",
     "languageCode": "en",
     "language": "English"
@@ -7445,11 +7430,6 @@
     "language": "English"
   },
   {
-    "text": "kuk",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "kuksuger",
     "languageCode": "en",
     "language": "English"
@@ -7521,11 +7501,6 @@
   },
   {
     "text": "kurac",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
-    "text": "kurwa",
     "languageCode": "en",
     "language": "English"
   },
@@ -7821,11 +7796,6 @@
   },
   {
     "text": "loins",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
-    "text": "lolita",
     "languageCode": "en",
     "language": "English"
   },
@@ -9085,11 +9055,6 @@
     "language": "English"
   },
   {
-    "text": "nigger",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "niggerhead",
     "languageCode": "en",
     "language": "English"
@@ -9541,11 +9506,6 @@
   },
   {
     "text": "orifiss",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
-    "text": "orospu",
     "languageCode": "en",
     "language": "English"
   },
@@ -15051,6 +15011,11 @@
   },
   {
     "text": "arschloch",
+    "languageCode": "de",
+    "language": "German"
+  },
+  {
+    "text": "bimbo",
     "languageCode": "de",
     "language": "German"
   },
@@ -20575,6 +20540,11 @@
     "language": "Dutch"
   },
   {
+    "text": "hoer",
+    "languageCode": "nl",
+    "language": "Dutch"
+  },
+  {
     "text": "hoerenbuurt",
     "languageCode": "nl",
     "language": "Dutch"
@@ -20646,6 +20616,11 @@
   },
   {
     "text": "klootoog",
+    "languageCode": "nl",
+    "language": "Dutch"
+  },
+  {
+    "text": "klootzak",
     "languageCode": "nl",
     "language": "Dutch"
   },
@@ -21355,6 +21330,11 @@
     "language": "Polish"
   },
   {
+    "text": "kurwa",
+    "languageCode": "pl",
+    "language": "Polish"
+  },
+  {
     "text": "kurwy",
     "languageCode": "pl",
     "language": "Polish"
@@ -21711,6 +21691,11 @@
   },
   {
     "text": "inferno",
+    "languageCode": "pt",
+    "language": "Portuguese"
+  },
+  {
+    "text": "lolita",
     "languageCode": "pt",
     "language": "Portuguese"
   },
@@ -22650,6 +22635,11 @@
     "language": "Swedish"
   },
   {
+    "text": "kuk",
+    "languageCode": "sv",
+    "language": "Swedish"
+  },
+  {
     "text": "kuksås",
     "languageCode": "sv",
     "language": "Swedish"
@@ -22691,6 +22681,11 @@
   },
   {
     "text": "neger",
+    "languageCode": "sv",
+    "language": "Swedish"
+  },
+  {
+    "text": "nigger",
     "languageCode": "sv",
     "language": "Swedish"
   },
@@ -23216,6 +23211,11 @@
   },
   {
     "text": "kaltağın",
+    "languageCode": "tr",
+    "language": "Turkish"
+  },
+  {
+    "text": "orospu",
     "languageCode": "tr",
     "language": "Turkish"
   },

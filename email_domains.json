@@ -4351,8 +4351,8 @@
   },
   {
     "domain": "abilitywe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4381,8 +4381,8 @@
   },
   {
     "domain": "abovewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4399,26 +4399,26 @@
   },
   {
     "domain": "absolutewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "abundantwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "abusemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "abuser.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4471,14 +4471,14 @@
   },
   {
     "domain": "abyssmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ac20mail.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4501,8 +4501,8 @@
   },
   {
     "domain": "academiccommunity.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4513,8 +4513,8 @@
   },
   {
     "domain": "academywe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4525,20 +4525,20 @@
   },
   {
     "domain": "acceleratewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "accentwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "acceptwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4567,14 +4567,14 @@
   },
   {
     "domain": "acclaimwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "accordwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4585,8 +4585,8 @@
   },
   {
     "domain": "accreditedwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4645,14 +4645,14 @@
   },
   {
     "domain": "achievementwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "achievewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4687,8 +4687,8 @@
   },
   {
     "domain": "acornwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4699,8 +4699,8 @@
   },
   {
     "domain": "acrylicwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4717,8 +4717,8 @@
   },
   {
     "domain": "activatewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4741,26 +4741,26 @@
   },
   {
     "domain": "activitywe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "acucre.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "acuitywe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "acumenwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4807,14 +4807,14 @@
   },
   {
     "domain": "adaptivewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adaptwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4831,8 +4831,8 @@
   },
   {
     "domain": "add3000.pp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4843,8 +4843,8 @@
   },
   {
     "domain": "addictingtrailers.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4873,8 +4873,8 @@
   },
   {
     "domain": "adeptwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4921,14 +4921,14 @@
   },
   {
     "domain": "adiq.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "aditus.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4951,26 +4951,26 @@
   },
   {
     "domain": "admiralwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ado888.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adobeccepdm.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adoniswe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4987,8 +4987,8 @@
   },
   {
     "domain": "adpugh.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5035,14 +5035,14 @@
   },
   {
     "domain": "adsd.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adubiz.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5065,8 +5065,8 @@
   },
   {
     "domain": "advantagewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5083,38 +5083,38 @@
   },
   {
     "domain": "advantimo.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adventurewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adventwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "advisorwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "advocatewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "adwaterandstir.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5137,26 +5137,26 @@
   },
   {
     "domain": "aegde.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "aegia.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "aegiscorp.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "aegiswe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5167,8 +5167,8 @@
   },
   {
     "domain": "aelo.es",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5191,8 +5191,8 @@
   },
   {
     "domain": "aeonpsi.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5215,26 +5215,26 @@
   },
   {
     "domain": "affiliatedwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "affiliate-nebenjob.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "affilikingz.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "affinitywe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5245,14 +5245,14 @@
   },
   {
     "domain": "affluentwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "affordablewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5311,8 +5311,8 @@
   },
   {
     "domain": "afrobacon.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5323,8 +5323,8 @@
   },
   {
     "domain": "afterhourswe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5365,8 +5365,8 @@
   },
   {
     "domain": "agedmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5377,8 +5377,8 @@
   },
   {
     "domain": "agendawe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5395,14 +5395,14 @@
   },
   {
     "domain": "agger.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "agilewe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5419,8 +5419,8 @@
   },
   {
     "domain": "agorawe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5431,8 +5431,8 @@
   },
   {
     "domain": "agtx.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5455,20 +5455,20 @@
   },
   {
     "domain": "aheadwe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ahem.email",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ahk.jp",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5539,8 +5539,8 @@
   },
   {
     "domain": "air2token.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5599,8 +5599,8 @@
   },
   {
     "domain": "airmailbox.website",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5659,8 +5659,8 @@
   },
   {
     "domain": "ajaxapp.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5701,8 +5701,8 @@
   },
   {
     "domain": "akapost.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -5713,8 +5713,8 @@
   },
   {
     "domain": "akerd.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -110263,6 +110263,12 @@
   },
   {
     "domain": "zouz.fr.nf",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "4save.net",
     "disposable": true,
     "free": false,
     "blacklist": false

@@ -19495,8 +19495,8 @@
   },
   {
     "domain": "datazo.ca",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19531,20 +19531,20 @@
   },
   {
     "domain": "davidkoh.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "davidlcreative.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dawin.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19561,14 +19561,14 @@
   },
   {
     "domain": "daymail.life",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "daymailonline.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19585,8 +19585,8 @@
   },
   {
     "domain": "dayrep.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19603,8 +19603,8 @@
   },
   {
     "domain": "dbunker.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19633,8 +19633,8 @@
   },
   {
     "domain": "dcemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19651,8 +19651,8 @@
   },
   {
     "domain": "ddcrew.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19711,8 +19711,8 @@
   },
   {
     "domain": "de-a.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19723,38 +19723,38 @@
   },
   {
     "domain": "deadaddress.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "deadchildren.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "deadfake.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "deadfake.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "deadfake.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "deadfake.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19765,8 +19765,8 @@
   },
   {
     "domain": "deadspam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19777,14 +19777,14 @@
   },
   {
     "domain": "deagot.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dealja.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19801,8 +19801,8 @@
   },
   {
     "domain": "dealrek.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19831,8 +19831,8 @@
   },
   {
     "domain": "deekayen.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19861,8 +19861,8 @@
   },
   {
     "domain": "defomail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19879,8 +19879,8 @@
   },
   {
     "domain": "degradedfun.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19921,20 +19921,20 @@
   },
   {
     "domain": "delayload.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "delayload.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "delikkt.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -19987,8 +19987,8 @@
   },
   {
     "domain": "demen.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20017,20 +20017,20 @@
   },
   {
     "domain": "dengekibunko.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dengekibunko.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dengekibunko.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20107,20 +20107,20 @@
   },
   {
     "domain": "derkombi.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "der-kombi.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "derluxuswagen.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20185,20 +20185,20 @@
   },
   {
     "domain": "desoz.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "despam.it",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "despammed.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20263,32 +20263,32 @@
   },
   {
     "domain": "dev-null.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dev-null.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dev-null.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dev-null.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "devnullmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20317,8 +20317,8 @@
   },
   {
     "domain": "deyom.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20395,8 +20395,8 @@
   },
   {
     "domain": "dharmatel.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20431,20 +20431,20 @@
   },
   {
     "domain": "dhm.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dhy.cc",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dialogus.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20455,8 +20455,8 @@
   },
   {
     "domain": "diapaulpainting.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20569,8 +20569,8 @@
   },
   {
     "domain": "digitalesbusiness.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20587,26 +20587,26 @@
   },
   {
     "domain": "digitalmail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "digitalmariachis.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "digital-message.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "digitalsanctuary.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20665,14 +20665,14 @@
   },
   {
     "domain": "dildosfromspace.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dim-coin.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20683,8 +20683,8 @@
   },
   {
     "domain": "dingbone.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20755,8 +20755,8 @@
   },
   {
     "domain": "directmail24.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20803,8 +20803,8 @@
   },
   {
     "domain": "disaq.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20815,50 +20815,50 @@
   },
   {
     "domain": "disbox.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disbox.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discard.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discard.email",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discard.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discard.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discard.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discard.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20869,14 +20869,14 @@
   },
   {
     "domain": "discardmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "discardmail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20899,8 +20899,8 @@
   },
   {
     "domain": "discos4.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20947,14 +20947,14 @@
   },
   {
     "domain": "disign-concept.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disign-revelation.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20971,14 +20971,14 @@
   },
   {
     "domain": "dispo.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dispomail.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -20989,8 +20989,8 @@
   },
   {
     "domain": "disposable.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21007,26 +21007,26 @@
   },
   {
     "domain": "disposable.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disposable.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disposableaddress.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disposable-email.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21037,8 +21037,8 @@
   },
   {
     "domain": "disposableemailaddresses.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21049,8 +21049,8 @@
   },
   {
     "domain": "disposableinbox.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21073,38 +21073,38 @@
   },
   {
     "domain": "disposablemails.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dispose.it",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disposeamail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "disposemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dispostable.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "divad.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21115,8 +21115,8 @@
   },
   {
     "domain": "divermail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21127,8 +21127,8 @@
   },
   {
     "domain": "divismail.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21139,8 +21139,8 @@
   },
   {
     "domain": "diwaq.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21211,8 +21211,8 @@
   },
   {
     "domain": "dlemail.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21331,8 +21331,8 @@
   },
   {
     "domain": "dmarc.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21397,8 +21397,8 @@
   },
   {
     "domain": "dndent.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21457,8 +21457,8 @@
   },
   {
     "domain": "dnses.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21475,8 +21475,8 @@
   },
   {
     "domain": "doanart.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21487,8 +21487,8 @@
   },
   {
     "domain": "dob.jp",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21559,26 +21559,26 @@
   },
   {
     "domain": "dodgeit.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dodgemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dodgit.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dodgit.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21589,8 +21589,8 @@
   },
   {
     "domain": "dodsi.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21655,8 +21655,8 @@
   },
   {
     "domain": "doiea.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21673,8 +21673,8 @@
   },
   {
     "domain": "dolphinnet.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21691,86 +21691,86 @@
   },
   {
     "domain": "domforfb1.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb18.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb19.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb2.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb23.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb27.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb29.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb3.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb4.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb5.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb6.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb7.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb8.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "domforfb9.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21787,8 +21787,8 @@
   },
   {
     "domain": "domozmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21811,14 +21811,14 @@
   },
   {
     "domain": "donemail.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dongqing365.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21871,14 +21871,14 @@
   },
   {
     "domain": "dontreg.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dontsendmespam.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21901,8 +21901,8 @@
   },
   {
     "domain": "doquier.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21949,8 +21949,8 @@
   },
   {
     "domain": "dotman.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21967,8 +21967,8 @@
   },
   {
     "domain": "dotmsg.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21979,8 +21979,8 @@
   },
   {
     "domain": "dotslashrage.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -21991,8 +21991,8 @@
   },
   {
     "domain": "doublemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22003,8 +22003,8 @@
   },
   {
     "domain": "douchelounge.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22045,14 +22045,14 @@
   },
   {
     "domain": "dozvon-spb.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dp76.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22087,8 +22087,8 @@
   },
   {
     "domain": "dr69.site",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22147,14 +22147,14 @@
   },
   {
     "domain": "drdrb.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "drdrb.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22165,8 +22165,8 @@
   },
   {
     "domain": "dred.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22189,8 +22189,8 @@
   },
   {
     "domain": "drevo.si",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22231,14 +22231,14 @@
   },
   {
     "domain": "drivetagdev.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "droolingfanboy.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22249,8 +22249,8 @@
   },
   {
     "domain": "dropcake.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22261,14 +22261,14 @@
   },
   {
     "domain": "dropjar.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "droplar.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22285,8 +22285,8 @@
   },
   {
     "domain": "dropmail.me",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22333,8 +22333,8 @@
   },
   {
     "domain": "dsiay.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22351,8 +22351,8 @@
   },
   {
     "domain": "dspwebservices.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22375,8 +22375,8 @@
   },
   {
     "domain": "duam.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22405,14 +22405,14 @@
   },
   {
     "domain": "duck2.club",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dudmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22423,14 +22423,14 @@
   },
   {
     "domain": "duk33.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dukedish.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22441,14 +22441,14 @@
   },
   {
     "domain": "dumpandjunk.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dump-email.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22459,14 +22459,14 @@
   },
   {
     "domain": "dumpmail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "dumpyemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22507,14 +22507,14 @@
   },
   {
     "domain": "durandinterstellar.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "duskmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22675,8 +22675,8 @@
   },
   {
     "domain": "dwse.edu.pl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22741,8 +22741,8 @@
   },
   {
     "domain": "dyceroprojects.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22807,8 +22807,8 @@
   },
   {
     "domain": "dz17.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22909,8 +22909,8 @@
   },
   {
     "domain": "e3z.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -22921,8 +22921,8 @@
   },
   {
     "domain": "e4ward.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23095,8 +23095,8 @@
   },
   {
     "domain": "easynetwork.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23119,14 +23119,14 @@
   },
   {
     "domain": "easytrashmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "easy-trash-mail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23143,8 +23143,8 @@
   },
   {
     "domain": "eatmea2z.club",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23167,8 +23167,8 @@
   },
   {
     "domain": "eay.jp",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23185,14 +23185,14 @@
   },
   {
     "domain": "ebbob.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ebeschlussbuch.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23239,8 +23239,8 @@
   },
   {
     "domain": "ecallheandi.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23311,8 +23311,8 @@
   },
   {
     "domain": "ecolo-online.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23341,8 +23341,8 @@
   },
   {
     "domain": "edgex.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23353,8 +23353,8 @@
   },
   {
     "domain": "edinburgh-airporthotels.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23401,20 +23401,20 @@
   },
   {
     "domain": "edv.to",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ee1.pl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ee2.pl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23425,8 +23425,8 @@
   },
   {
     "domain": "eelmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23467,8 +23467,8 @@
   },
   {
     "domain": "efxs.ca",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23521,20 +23521,20 @@
   },
   {
     "domain": "einmalmail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "einrot.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "einrot.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23569,8 +23569,8 @@
   },
   {
     "domain": "eintagsmail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23605,8 +23605,8 @@
   },
   {
     "domain": "elearningjournal.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23617,8 +23617,8 @@
   },
   {
     "domain": "electro.mn",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23647,14 +23647,14 @@
   },
   {
     "domain": "elitevipatlantamodels.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "elki-mkzn.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23737,8 +23737,8 @@
   },
   {
     "domain": "e-mail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23803,8 +23803,8 @@
   },
   {
     "domain": "email.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23827,8 +23827,8 @@
   },
   {
     "domain": "e-mail.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23965,8 +23965,8 @@
   },
   {
     "domain": "email60.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -23989,32 +23989,32 @@
   },
   {
     "domain": "emailage.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailage.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailage.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailage.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailage.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24073,14 +24073,14 @@
   },
   {
     "domain": "emaildienst.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emaildrop.io",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24115,20 +24115,20 @@
   },
   {
     "domain": "email-fake.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailfake.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "email-fake.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24139,8 +24139,8 @@
   },
   {
     "domain": "email-fake.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24151,20 +24151,20 @@
   },
   {
     "domain": "email-fake.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailfake.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "email-fake.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24175,8 +24175,8 @@
   },
   {
     "domain": "email-fake.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24223,8 +24223,8 @@
   },
   {
     "domain": "emailfreedom.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24235,14 +24235,14 @@
   },
   {
     "domain": "emailgenerator.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailgo.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24265,14 +24265,14 @@
   },
   {
     "domain": "emailias.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailigo.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24283,8 +24283,8 @@
   },
   {
     "domain": "emailinfive.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24295,8 +24295,8 @@
   },
   {
     "domain": "emailisvalid.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24307,20 +24307,20 @@
   },
   {
     "domain": "email-jetable.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "email-lab.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emaillime.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24349,14 +24349,14 @@
   },
   {
     "domain": "emailmiser.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailna.co",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24373,8 +24373,8 @@
   },
   {
     "domain": "emailo.pro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24385,8 +24385,8 @@
   },
   {
     "domain": "emailondeck.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24415,14 +24415,14 @@
   },
   {
     "domain": "emailportal.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailproxsy.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24433,14 +24433,14 @@
   },
   {
     "domain": "emailresort.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emails.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24463,14 +24463,14 @@
   },
   {
     "domain": "emailsecurer.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailsensei.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24487,8 +24487,8 @@
   },
   {
     "domain": "emailsingularity.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24505,32 +24505,32 @@
   },
   {
     "domain": "emailspam.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailspam.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailspam.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailspam.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailspam.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24541,8 +24541,8 @@
   },
   {
     "domain": "emailsy.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24559,62 +24559,62 @@
   },
   {
     "domain": "emailtech.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "email-temp.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailtemporanea.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailtemporanea.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailtemporar.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailtemporario.com.br",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailthe.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailtmp.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailto.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailure.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24631,8 +24631,8 @@
   },
   {
     "domain": "emailwarden.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24655,32 +24655,32 @@
   },
   {
     "domain": "emailxfer.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailz.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailz.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailz.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emailz.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24703,8 +24703,8 @@
   },
   {
     "domain": "e-marketstore.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24727,20 +24727,20 @@
   },
   {
     "domain": "emeil.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emeil.ir",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emeraldwebmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24763,32 +24763,32 @@
   },
   {
     "domain": "emkei.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emkei.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emkei.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emkei.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emkei.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24799,26 +24799,26 @@
   },
   {
     "domain": "eml.pp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emlhub.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emlpro.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "emltmp.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24853,8 +24853,8 @@
   },
   {
     "domain": "empireanime.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24883,8 +24883,8 @@
   },
   {
     "domain": "emstjzh.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -24931,14 +24931,14 @@
   },
   {
     "domain": "emz.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "enayu.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25087,8 +25087,8 @@
   },
   {
     "domain": "enterto.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25111,8 +25111,8 @@
   },
   {
     "domain": "envy17.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25123,8 +25123,8 @@
   },
   {
     "domain": "eoffice.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25165,20 +25165,20 @@
   },
   {
     "domain": "epb.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ephemail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ephemeral.email",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25261,8 +25261,8 @@
   },
   {
     "domain": "eqiluxspam.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25315,8 +25315,8 @@
   },
   {
     "domain": "ericjohnson.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25339,26 +25339,26 @@
   },
   {
     "domain": "ero-tube.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "esbano-ru.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "esc.la",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "escapehatchapp.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25369,8 +25369,8 @@
   },
   {
     "domain": "esemay.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25381,8 +25381,8 @@
   },
   {
     "domain": "esgeneri.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25411,8 +25411,8 @@
   },
   {
     "domain": "esprity.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25435,8 +25435,8 @@
   },
   {
     "domain": "estate-invest.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25489,14 +25489,14 @@
   },
   {
     "domain": "eth2btc.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ether123.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25507,20 +25507,20 @@
   },
   {
     "domain": "ethereum1.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ethersports.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ethersportz.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25561,8 +25561,8 @@
   },
   {
     "domain": "etotvibor.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25573,20 +25573,20 @@
   },
   {
     "domain": "etranquil.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "etranquil.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "etranquil.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25615,8 +25615,8 @@
   },
   {
     "domain": "euaqa.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25741,8 +25741,8 @@
   },
   {
     "domain": "evanfox.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25753,8 +25753,8 @@
   },
   {
     "domain": "eveav.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25801,20 +25801,20 @@
   },
   {
     "domain": "evilcomputer.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "evopo.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "evyush.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25867,8 +25867,8 @@
   },
   {
     "domain": "exbts.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25951,14 +25951,14 @@
   },
   {
     "domain": "existiert.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "exitstageleft.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -25987,14 +25987,14 @@
   },
   {
     "domain": "explodemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "express.net.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26029,14 +26029,14 @@
   },
   {
     "domain": "extremail.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "eyepaste.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26047,8 +26047,8 @@
   },
   {
     "domain": "ez.lv",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26065,8 +26065,8 @@
   },
   {
     "domain": "ezehe.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26077,8 +26077,8 @@
   },
   {
     "domain": "ezfill.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26113,8 +26113,8 @@
   },
   {
     "domain": "ezstest.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26197,8 +26197,8 @@
   },
   {
     "domain": "f4k.es",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26227,20 +26227,20 @@
   },
   {
     "domain": "facebook-email.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "facebook-email.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "facebook-email.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26251,14 +26251,14 @@
   },
   {
     "domain": "facebookmail.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "facebookmail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26275,14 +26275,14 @@
   },
   {
     "domain": "fackme.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fadingemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26299,14 +26299,14 @@
   },
   {
     "domain": "faecesmail.me",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fag.wf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26317,8 +26317,8 @@
   },
   {
     "domain": "failbone.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26329,8 +26329,8 @@
   },
   {
     "domain": "faithkills.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26365,14 +26365,14 @@
   },
   {
     "domain": "fake-box.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakedemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26383,8 +26383,8 @@
   },
   {
     "domain": "fake-email.pp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26395,62 +26395,62 @@
   },
   {
     "domain": "fakeinbox.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakeinbox.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakeinbox.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakeinbox.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakeinbox.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakeinbox.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakeinformation.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fake-mail.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fakemail.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fake-mail.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26461,8 +26461,8 @@
   },
   {
     "domain": "fake-mail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26479,8 +26479,8 @@
   },
   {
     "domain": "fakemailgenerator.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26515,8 +26515,8 @@
   },
   {
     "domain": "fakemailz.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26593,8 +26593,8 @@
   },
   {
     "domain": "fammix.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26611,8 +26611,8 @@
   },
   {
     "domain": "fangoh.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26653,8 +26653,8 @@
   },
   {
     "domain": "fansworldwide.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26665,8 +26665,8 @@
   },
   {
     "domain": "fantasymail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26707,8 +26707,8 @@
   },
   {
     "domain": "farrse.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26725,8 +26725,8 @@
   },
   {
     "domain": "fastacura.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26737,14 +26737,14 @@
   },
   {
     "domain": "fastchevy.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fastchrysler.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26767,8 +26767,8 @@
   },
   {
     "domain": "fast-email.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26803,8 +26803,8 @@
   },
   {
     "domain": "fasternet.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26827,8 +26827,8 @@
   },
   {
     "domain": "fastkawasaki.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26875,8 +26875,8 @@
   },
   {
     "domain": "fast-mail.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26977,8 +26977,8 @@
   },
   {
     "domain": "fastmazda.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -26989,14 +26989,14 @@
   },
   {
     "domain": "fastmitsubishi.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fastnissan.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27007,20 +27007,20 @@
   },
   {
     "domain": "fastsubaru.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fastsuzuki.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fasttoyota.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27043,8 +27043,8 @@
   },
   {
     "domain": "fastyamaha.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27055,8 +27055,8 @@
   },
   {
     "domain": "fatflap.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27127,8 +27127,8 @@
   },
   {
     "domain": "fbma.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27205,14 +27205,14 @@
   },
   {
     "domain": "fddns.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fdfdsfds.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27367,14 +27367,14 @@
   },
   {
     "domain": "fer-gabon.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fermaxxi.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27409,8 +27409,8 @@
   },
   {
     "domain": "fettometern.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27547,14 +27547,14 @@
   },
   {
     "domain": "ficken.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fictionsite.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27589,32 +27589,32 @@
   },
   {
     "domain": "fightallspam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "figjs.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "figshot.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "figurescoin.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fiifke.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27679,14 +27679,14 @@
   },
   {
     "domain": "filbert4u.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "filberts4u.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27703,14 +27703,14 @@
   },
   {
     "domain": "film-blog.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "filzmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27733,8 +27733,8 @@
   },
   {
     "domain": "findemail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27763,8 +27763,8 @@
   },
   {
     "domain": "findu.pl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27835,8 +27835,8 @@
   },
   {
     "domain": "fir.hk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27931,8 +27931,8 @@
   },
   {
     "domain": "fitnesrezink.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27949,8 +27949,8 @@
   },
   {
     "domain": "fivemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -27973,14 +27973,14 @@
   },
   {
     "domain": "fixmail.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fizmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28051,8 +28051,8 @@
   },
   {
     "domain": "fleckens.hu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28063,8 +28063,8 @@
   },
   {
     "domain": "flemail.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28111,8 +28111,8 @@
   },
   {
     "domain": "flowu.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28123,8 +28123,8 @@
   },
   {
     "domain": "flu.cc",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28141,8 +28141,8 @@
   },
   {
     "domain": "fluidsoft.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28153,8 +28153,8 @@
   },
   {
     "domain": "flurred.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28165,8 +28165,8 @@
   },
   {
     "domain": "flyinggeek.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28177,8 +28177,8 @@
   },
   {
     "domain": "flyspam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28189,8 +28189,8 @@
   },
   {
     "domain": "fly-ts.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28303,8 +28303,8 @@
   },
   {
     "domain": "foobarbot.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28321,8 +28321,8 @@
   },
   {
     "domain": "footard.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28369,8 +28369,8 @@
   },
   {
     "domain": "forecastertests.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28381,32 +28381,32 @@
   },
   {
     "domain": "foreskin.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "foreskin.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "foreskin.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "foreskin.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "foreskin.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28429,8 +28429,8 @@
   },
   {
     "domain": "forgetmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28453,8 +28453,8 @@
   },
   {
     "domain": "fornow.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28495,8 +28495,8 @@
   },
   {
     "domain": "forspam.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28531,8 +28531,8 @@
   },
   {
     "domain": "forward.cat",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28561,8 +28561,8 @@
   },
   {
     "domain": "foxja.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28573,8 +28573,8 @@
   },
   {
     "domain": "foxtrotter.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28609,8 +28609,8 @@
   },
   {
     "domain": "fr33mail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28621,8 +28621,8 @@
   },
   {
     "domain": "fragolina2.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28663,14 +28663,14 @@
   },
   {
     "domain": "frapmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "frappina.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28735,14 +28735,14 @@
   },
   {
     "domain": "freebabysittercam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freeblackbootytube.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28759,8 +28759,8 @@
   },
   {
     "domain": "freecat.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28789,8 +28789,8 @@
   },
   {
     "domain": "freedom4you.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28807,20 +28807,20 @@
   },
   {
     "domain": "freedompop.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "free-email.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "free-email.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28831,8 +28831,8 @@
   },
   {
     "domain": "freefattymovies.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28861,20 +28861,20 @@
   },
   {
     "domain": "freehotmail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freeinbox.email",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freelance-france.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28885,8 +28885,8 @@
   },
   {
     "domain": "freeletter.me",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28951,8 +28951,8 @@
   },
   {
     "domain": "freemail.ms",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -28993,38 +28993,38 @@
   },
   {
     "domain": "freemails.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freemails.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freemails.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freemeil.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freemeil.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "freemeil.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29089,8 +29089,8 @@
   },
   {
     "domain": "freeplumpervideos.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29113,8 +29113,8 @@
   },
   {
     "domain": "freerubli.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29125,8 +29125,8 @@
   },
   {
     "domain": "freeschoolgirlvids.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29149,8 +29149,8 @@
   },
   {
     "domain": "freesistercam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29185,8 +29185,8 @@
   },
   {
     "domain": "freeteenbums.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29293,8 +29293,8 @@
   },
   {
     "domain": "freundin.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -29311,8 +29311,8 @@
   },
   {
     "domain": "friendlymail.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30157,8 +30157,8 @@
   },
   {
     "domain": "front14.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30289,8 +30289,8 @@
   },
   {
     "domain": "ftp.sh",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30307,20 +30307,20 @@
   },
   {
     "domain": "ftpinc.ca",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fuckedupload.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fuckingduh.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30331,14 +30331,14 @@
   },
   {
     "domain": "fuckme69.club",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fucknloveme.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30349,14 +30349,14 @@
   },
   {
     "domain": "fuckxxme.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fudgerub.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30373,8 +30373,8 @@
   },
   {
     "domain": "fuirio.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30415,8 +30415,8 @@
   },
   {
     "domain": "fulvie.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30433,8 +30433,8 @@
   },
   {
     "domain": "fun64.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30469,14 +30469,14 @@
   },
   {
     "domain": "funnycodesnippets.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "funnymail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30523,8 +30523,8 @@
   },
   {
     "domain": "furzauflunge.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30607,26 +30607,26 @@
   },
   {
     "domain": "fuwa.be",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fuwa.li",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fuwamofu.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "fux0ringduh.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30691,8 +30691,8 @@
   },
   {
     "domain": "fxnxs.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30709,8 +30709,8 @@
   },
   {
     "domain": "fyii.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30799,14 +30799,14 @@
   },
   {
     "domain": "g14l71lb.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "g1xmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30817,14 +30817,14 @@
   },
   {
     "domain": "g2xmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "g3xmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30835,8 +30835,8 @@
   },
   {
     "domain": "g4hdrop.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30889,8 +30889,8 @@
   },
   {
     "domain": "gafy.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30931,8 +30931,8 @@
   },
   {
     "domain": "galaxy.tv",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -30967,14 +30967,14 @@
   },
   {
     "domain": "gally.jp",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gamail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31003,8 +31003,8 @@
   },
   {
     "domain": "gamegregious.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31045,8 +31045,8 @@
   },
   {
     "domain": "gamgling.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31087,8 +31087,8 @@
   },
   {
     "domain": "garasikita.pw",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31099,14 +31099,14 @@
   },
   {
     "domain": "garbagecollector.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "garbagemail.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31117,8 +31117,8 @@
   },
   {
     "domain": "gardenscape.ca",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31147,14 +31147,14 @@
   },
   {
     "domain": "garizo.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "garliclife.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31165,8 +31165,8 @@
   },
   {
     "domain": "garrymccooey.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31201,14 +31201,14 @@
   },
   {
     "domain": "gav0.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gawab.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31243,14 +31243,14 @@
   },
   {
     "domain": "gbcmail.win",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gbmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31267,8 +31267,8 @@
   },
   {
     "domain": "gcmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31279,8 +31279,8 @@
   },
   {
     "domain": "gdmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31327,8 +31327,8 @@
   },
   {
     "domain": "gedmail.win",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31351,8 +31351,8 @@
   },
   {
     "domain": "geekforex.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31363,8 +31363,8 @@
   },
   {
     "domain": "geew.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31381,20 +31381,20 @@
   },
   {
     "domain": "gehensiemirnichtaufdensack.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "geldwaschmaschine.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gelitik.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31447,8 +31447,8 @@
   },
   {
     "domain": "genderfuck.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31477,8 +31477,8 @@
   },
   {
     "domain": "generator.email",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31561,32 +31561,32 @@
   },
   {
     "domain": "geronra.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "geschent.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "get.pp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "get1mail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "get2mail.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31597,38 +31597,38 @@
   },
   {
     "domain": "getairmail.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getairmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getairmail.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getairmail.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getairmail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getairmail.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31651,14 +31651,14 @@
   },
   {
     "domain": "geteit.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getfun.men",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31675,32 +31675,32 @@
   },
   {
     "domain": "get-mail.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "get-mail.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "get-mail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "get-mail.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getmails.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31717,8 +31717,8 @@
   },
   {
     "domain": "getnada.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31753,8 +31753,8 @@
   },
   {
     "domain": "getnowtoday.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31765,20 +31765,20 @@
   },
   {
     "domain": "getonemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getonemail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "getsimpleemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31789,8 +31789,8 @@
   },
   {
     "domain": "gett.icu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31897,8 +31897,8 @@
   },
   {
     "domain": "ghosttexter.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31909,20 +31909,20 @@
   },
   {
     "domain": "giacmosuaviet.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "giaiphapmuasam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "giantmail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -31963,8 +31963,8 @@
   },
   {
     "domain": "gifto12.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32011,20 +32011,20 @@
   },
   {
     "domain": "ginzi.be",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ginzi.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ginzi.es",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32035,20 +32035,20 @@
   },
   {
     "domain": "ginzi.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ginzy.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ginzy.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32119,8 +32119,8 @@
   },
   {
     "domain": "girlmail.win",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32137,8 +32137,8 @@
   },
   {
     "domain": "girlsindetention.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32149,14 +32149,14 @@
   },
   {
     "domain": "girlsundertheinfluence.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gishpuppy.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32197,14 +32197,14 @@
   },
   {
     "domain": "giveh2o.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "givememail.club",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32215,8 +32215,8 @@
   },
   {
     "domain": "givmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32269,8 +32269,8 @@
   },
   {
     "domain": "glitch.sx",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32305,8 +32305,8 @@
   },
   {
     "domain": "globaltouron.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32329,14 +32329,14 @@
   },
   {
     "domain": "glubex.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "glucosegrin.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32473,8 +32473,8 @@
   },
   {
     "domain": "gmatch.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32497,8 +32497,8 @@
   },
   {
     "domain": "gmial.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32623,8 +32623,8 @@
   },
   {
     "domain": "gmx1mail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32635,14 +32635,14 @@
   },
   {
     "domain": "gmxmail.top",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gmxmail.win",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32665,8 +32665,8 @@
   },
   {
     "domain": "gnctr-calgary.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32743,14 +32743,14 @@
   },
   {
     "domain": "go2usa.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "go2vpn.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32815,8 +32815,8 @@
   },
   {
     "domain": "goemailgo.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32887,8 +32887,8 @@
   },
   {
     "domain": "golemico.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -32947,8 +32947,8 @@
   },
   {
     "domain": "gomail.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33103,8 +33103,8 @@
   },
   {
     "domain": "goplaygame.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33115,8 +33115,8 @@
   },
   {
     "domain": "gorillaswithdirtyarmpits.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33133,8 +33133,8 @@
   },
   {
     "domain": "goround.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33151,8 +33151,8 @@
   },
   {
     "domain": "gosuslugi-spravka.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33169,8 +33169,8 @@
   },
   {
     "domain": "gothere.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33187,20 +33187,20 @@
   },
   {
     "domain": "gotmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gotmail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gotmail.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33235,38 +33235,38 @@
   },
   {
     "domain": "gowikibooks.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikicampus.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikicars.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikifilms.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikigames.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikimusic.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33277,20 +33277,20 @@
   },
   {
     "domain": "gowikinetwork.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikitravel.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gowikitv.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33349,14 +33349,14 @@
   },
   {
     "domain": "grandmamail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "grandmasmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33445,8 +33445,8 @@
   },
   {
     "domain": "great-host.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33469,8 +33469,8 @@
   },
   {
     "domain": "greenhousemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33481,8 +33481,8 @@
   },
   {
     "domain": "greensloth.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33499,32 +33499,32 @@
   },
   {
     "domain": "greggamel.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "greggamel.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gregorsky.zone",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gregorygamel.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gregorygamel.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33559,20 +33559,20 @@
   },
   {
     "domain": "grish.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "griuc.schule",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "grn.cc",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33673,8 +33673,8 @@
   },
   {
     "domain": "grr.la",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33685,32 +33685,32 @@
   },
   {
     "domain": "gruz-m.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gs-arc.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gsredcross.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gsrv.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gsxstring.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33739,8 +33739,8 @@
   },
   {
     "domain": "gudanglowongan.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33751,86 +33751,86 @@
   },
   {
     "domain": "guerillamail.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerillamail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerillamail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerillamail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerillamail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerillamail.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerillamailblock.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamail.biz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamail.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "guerrillamailblock.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33889,8 +33889,8 @@
   },
   {
     "domain": "gustr.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33979,14 +33979,14 @@
   },
   {
     "domain": "gxemail.men",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "gynzi.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -33997,8 +33997,8 @@
   },
   {
     "domain": "gynzi.es",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34093,8 +34093,8 @@
   },
   {
     "domain": "gzb.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34171,8 +34171,8 @@
   },
   {
     "domain": "h8s.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34183,8 +34183,8 @@
   },
   {
     "domain": "habitue.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34207,8 +34207,8 @@
   },
   {
     "domain": "hacccc.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34231,8 +34231,8 @@
   },
   {
     "domain": "hackersquad.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34243,8 +34243,8 @@
   },
   {
     "domain": "hackthatbit.ch",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34261,8 +34261,8 @@
   },
   {
     "domain": "hahawrong.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34273,8 +34273,8 @@
   },
   {
     "domain": "haida-edu.cn",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34297,8 +34297,8 @@
   },
   {
     "domain": "hairs24.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34315,8 +34315,8 @@
   },
   {
     "domain": "haltospam.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34429,8 +34429,8 @@
   },
   {
     "domain": "hangxomcuatoilatotoro.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34477,8 +34477,8 @@
   },
   {
     "domain": "happydomik.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34531,8 +34531,8 @@
   },
   {
     "domain": "harakirimail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34579,8 +34579,8 @@
   },
   {
     "domain": "haribu.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34597,8 +34597,8 @@
   },
   {
     "domain": "hartbot.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34609,8 +34609,8 @@
   },
   {
     "domain": "hasanmail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34639,14 +34639,14 @@
   },
   {
     "domain": "hatespam.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hat-geld.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34669,14 +34669,14 @@
   },
   {
     "domain": "hawrong.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "haydoo.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34693,20 +34693,20 @@
   },
   {
     "domain": "hazelnut4u.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hazelnuts4u.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hazmatshipping.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34735,8 +34735,8 @@
   },
   {
     "domain": "hccmail.win",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34795,8 +34795,8 @@
   },
   {
     "domain": "headstrong.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34831,14 +34831,14 @@
   },
   {
     "domain": "heathenhammer.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "heathenhero.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34867,8 +34867,8 @@
   },
   {
     "domain": "hecat.es",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34921,8 +34921,8 @@
   },
   {
     "domain": "hellodream.mobi",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34933,8 +34933,8 @@
   },
   {
     "domain": "helloricky.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -34975,14 +34975,14 @@
   },
   {
     "domain": "helpinghandtaxcenter.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "helpjobs.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35095,20 +35095,20 @@
   },
   {
     "domain": "heros3.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "herp.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "herpderp.nl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35167,8 +35167,8 @@
   },
   {
     "domain": "hezll.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35233,14 +35233,14 @@
   },
   {
     "domain": "hi2.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hi5.si",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35263,8 +35263,8 @@
   },
   {
     "domain": "hiddentragedy.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35275,32 +35275,32 @@
   },
   {
     "domain": "hidebox.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hidebusiness.xyz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hidemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hidemail.pro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hidemail.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35323,14 +35323,14 @@
   },
   {
     "domain": "hidzz.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "highbros.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35377,14 +35377,14 @@
   },
   {
     "domain": "hiltonvr.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "himail.online",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35647,8 +35647,8 @@
   },
   {
     "domain": "hmail.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35659,14 +35659,14 @@
   },
   {
     "domain": "hmamail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hmh.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35701,14 +35701,14 @@
   },
   {
     "domain": "hoanggiaanh.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "hoanglong.tech",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35725,8 +35725,8 @@
   },
   {
     "domain": "hochsitze.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -35749,14 +35749,14 @@
   },
   {
     "domain": "hola.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "holl.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38587,8 +38587,8 @@
   },
   {
     "domain": "indosukses.press",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38611,8 +38611,8 @@
   },
   {
     "domain": "ineec.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38689,8 +38689,8 @@
   },
   {
     "domain": "infocom.zp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38761,8 +38761,8 @@
   },
   {
     "domain": "inggo.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38809,8 +38809,8 @@
   },
   {
     "domain": "inkomail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38863,8 +38863,8 @@
   },
   {
     "domain": "inmynetwork.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38893,26 +38893,26 @@
   },
   {
     "domain": "inoutmail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "inoutmail.eu",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "inoutmail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "inoutmail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38953,8 +38953,8 @@
   },
   {
     "domain": "insanumingeniumhomebrew.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -38983,8 +38983,8 @@
   },
   {
     "domain": "insorg-mail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39007,20 +39007,20 @@
   },
   {
     "domain": "instance-email.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "instantblingmail.info",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "instantemailaddress.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39031,14 +39031,14 @@
   },
   {
     "domain": "instant-mail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "instantmail.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39205,8 +39205,8 @@
   },
   {
     "domain": "internetoftags.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39217,8 +39217,8 @@
   },
   {
     "domain": "internet-v-stavropole.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39235,14 +39235,14 @@
   },
   {
     "domain": "interstats.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "intersteller.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39265,8 +39265,8 @@
   },
   {
     "domain": "investore.co",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39391,8 +39391,8 @@
   },
   {
     "domain": "iozak.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39409,20 +39409,20 @@
   },
   {
     "domain": "ip4.pp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ip6.li",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ip6.pp.ua",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39481,8 +39481,8 @@
   },
   {
     "domain": "ipoo.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39493,8 +39493,8 @@
   },
   {
     "domain": "ippandansei.tk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39505,8 +39505,8 @@
   },
   {
     "domain": "ipsur.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39565,8 +39565,8 @@
   },
   {
     "domain": "irabops.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39583,8 +39583,8 @@
   },
   {
     "domain": "irc.so",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39613,8 +39613,8 @@
   },
   {
     "domain": "irish2me.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39625,8 +39625,8 @@
   },
   {
     "domain": "irishspringrealty.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39643,14 +39643,14 @@
   },
   {
     "domain": "iroid.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "ironiebehindert.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -39661,14 +39661,14 @@
   },
   {
     "domain": "irssi.tv",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "is.af",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40051,8 +40051,8 @@
   },
   {
     "domain": "isdaq.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40177,8 +40177,8 @@
   },
   {
     "domain": "isosq.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40297,8 +40297,8 @@
   },
   {
     "domain": "istii.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40339,8 +40339,8 @@
   },
   {
     "domain": "isukrainestillacountry.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40393,8 +40393,8 @@
   },
   {
     "domain": "it7.ovh",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40423,8 +40423,8 @@
   },
   {
     "domain": "italy-mail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40543,14 +40543,14 @@
   },
   {
     "domain": "itunesgiftcodegenerator.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "iuemail.men",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40633,8 +40633,8 @@
   },
   {
     "domain": "iwi.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40693,8 +40693,8 @@
   },
   {
     "domain": "ixx.io",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -40795,8 +40795,8 @@
   },
   {
     "domain": "jafps.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -42019,8 +42019,8 @@
   },
   {
     "domain": "j-p.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -110815,6 +110815,12 @@
   },
   {
     "domain": "dnsclick.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "rbs1.xyz",
     "disposable": true,
     "free": false,
     "blacklist": false

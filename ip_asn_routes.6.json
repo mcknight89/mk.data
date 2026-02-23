@@ -4,138 +4,6 @@
       "asn": 16276,
       "owner": "",
       "ipVersion": 4,
-      "ipStart": "82.39.180.1",
-      "ipEnd": "82.39.183.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.622Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.39.216.1",
-      "ipEnd": "82.39.219.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.627Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.39.224.1",
-      "ipEnd": "82.39.227.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.633Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.40.0.1",
-      "ipEnd": "82.40.3.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.637Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.40.12.1",
-      "ipEnd": "82.40.15.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.641Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.40.16.1",
-      "ipEnd": "82.40.19.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.646Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.40.4.1",
-      "ipEnd": "82.40.7.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.651Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.40.8.1",
-      "ipEnd": "82.40.11.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.655Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.41.100.1",
-      "ipEnd": "82.41.103.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.66Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.41.104.1",
-      "ipEnd": "82.41.107.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.665Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.41.108.1",
-      "ipEnd": "82.41.111.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.669Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
-      "ipStart": "82.41.124.1",
-      "ipEnd": "82.41.127.254",
-      "totalIps": 1022,
-      "countryCode": 250,
-      "maintainer": "netutils-mnt",
-      "lastSeenOn": "2026-02-02T01:17:00.674Z"
-    },
-    {
-      "asn": 16276,
-      "owner": "",
-      "ipVersion": 4,
       "ipStart": "82.41.148.1",
       "ipEnd": "82.41.151.254",
       "totalIps": 1022,
@@ -3155,7 +3023,7 @@
       "totalIps": 254,
       "countryCode": 826,
       "maintainer": "NUXTCLOUD-MNT",
-      "lastSeenOn": "2026-02-16T00:00:50.375Z"
+      "lastSeenOn": "2026-02-23T00:00:59.444Z"
     },
     {
       "asn": 207994,
@@ -6103,7 +5971,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "wcd",
-      "lastSeenOn": "2026-02-16T00:00:53.376Z"
+      "lastSeenOn": "2026-02-23T00:00:51.306Z"
     },
     {
       "asn": 29066,
@@ -7687,7 +7555,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "PTP-MNT",
-      "lastSeenOn": "2026-02-16T00:01:10.054Z"
+      "lastSeenOn": "2026-02-23T00:13:40.03Z"
     },
     {
       "asn": 52208,
@@ -7720,7 +7588,7 @@
       "totalIps": 2046,
       "countryCode": 643,
       "maintainer": "lir-ge-ipteam-1-MNT",
-      "lastSeenOn": "2026-02-16T00:01:05.463Z"
+      "lastSeenOn": "2026-02-23T00:00:48.747Z"
     },
     {
       "asn": 25019,
@@ -7731,7 +7599,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.795Z"
+      "lastSeenOn": "2026-02-23T00:01:42.48Z"
     },
     {
       "asn": 25019,
@@ -7742,7 +7610,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.803Z"
+      "lastSeenOn": "2026-02-23T00:01:42.547Z"
     },
     {
       "asn": 25019,
@@ -7753,7 +7621,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.813Z"
+      "lastSeenOn": "2026-02-23T00:01:42.599Z"
     },
     {
       "asn": 25019,
@@ -7764,7 +7632,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.055Z"
+      "lastSeenOn": "2026-02-23T00:01:43.082Z"
     },
     {
       "asn": 25019,
@@ -7775,7 +7643,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.067Z"
+      "lastSeenOn": "2026-02-23T00:01:43.121Z"
     },
     {
       "asn": 25019,
@@ -7786,7 +7654,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.074Z"
+      "lastSeenOn": "2026-02-23T00:01:43.158Z"
     },
     {
       "asn": 25019,
@@ -7797,7 +7665,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.083Z"
+      "lastSeenOn": "2026-02-23T00:01:42.811Z"
     },
     {
       "asn": 25019,
@@ -7808,7 +7676,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.091Z"
+      "lastSeenOn": "2026-02-23T00:01:42.86Z"
     },
     {
       "asn": 25019,
@@ -7819,7 +7687,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.1Z"
+      "lastSeenOn": "2026-02-23T00:01:42.897Z"
     },
     {
       "asn": 25019,
@@ -7830,7 +7698,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.109Z"
+      "lastSeenOn": "2026-02-23T00:01:42.929Z"
     },
     {
       "asn": 25019,
@@ -7841,7 +7709,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.118Z"
+      "lastSeenOn": "2026-02-23T00:01:42.962Z"
     },
     {
       "asn": 25019,
@@ -7852,7 +7720,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.129Z"
+      "lastSeenOn": "2026-02-23T00:01:42.997Z"
     },
     {
       "asn": 25019,
@@ -7863,7 +7731,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.14Z"
+      "lastSeenOn": "2026-02-23T00:01:43.04Z"
     },
     {
       "asn": 25019,
@@ -7874,7 +7742,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.149Z"
+      "lastSeenOn": "2026-02-23T00:01:43.073Z"
     },
     {
       "asn": 25019,
@@ -7885,7 +7753,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.158Z"
+      "lastSeenOn": "2026-02-23T00:01:43.096Z"
     },
     {
       "asn": 25019,
@@ -7896,7 +7764,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.167Z"
+      "lastSeenOn": "2026-02-23T00:01:43.129Z"
     },
     {
       "asn": 25019,
@@ -7907,7 +7775,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.173Z"
+      "lastSeenOn": "2026-02-23T00:01:43.146Z"
     },
     {
       "asn": 25019,
@@ -7918,7 +7786,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.181Z"
+      "lastSeenOn": "2026-02-23T00:01:43.183Z"
     },
     {
       "asn": 25019,
@@ -7929,7 +7797,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.189Z"
+      "lastSeenOn": "2026-02-23T00:01:43.212Z"
     },
     {
       "asn": 25019,
@@ -7940,7 +7808,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.202Z"
+      "lastSeenOn": "2026-02-23T00:01:43.233Z"
     },
     {
       "asn": 25019,
@@ -7951,7 +7819,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.219Z"
+      "lastSeenOn": "2026-02-23T00:01:43.011Z"
     },
     {
       "asn": 25019,
@@ -7962,7 +7830,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:43.794Z"
+      "lastSeenOn": "2026-02-23T00:01:57.074Z"
     },
     {
       "asn": 25019,
@@ -7973,7 +7841,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:44.883Z"
+      "lastSeenOn": "2026-02-23T00:01:58.228Z"
     },
     {
       "asn": 25019,
@@ -7984,7 +7852,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:44.929Z"
+      "lastSeenOn": "2026-02-23T00:01:58.309Z"
     },
     {
       "asn": 25019,
@@ -7995,7 +7863,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:44.943Z"
+      "lastSeenOn": "2026-02-23T00:01:58.332Z"
     },
     {
       "asn": 25019,
@@ -8006,7 +7874,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:49.22Z"
+      "lastSeenOn": "2026-02-23T00:02:00.267Z"
     },
     {
       "asn": 25019,
@@ -8017,7 +7885,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:49.378Z"
+      "lastSeenOn": "2026-02-23T00:02:00.333Z"
     },
     {
       "asn": 25019,
@@ -8028,7 +7896,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:51.809Z"
+      "lastSeenOn": "2026-02-23T00:02:04.929Z"
     },
     {
       "asn": 25019,
@@ -8039,7 +7907,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:56.445Z"
+      "lastSeenOn": "2026-02-23T00:02:13.734Z"
     },
     {
       "asn": 25019,
@@ -8050,7 +7918,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:56.464Z"
+      "lastSeenOn": "2026-02-23T00:02:13.897Z"
     },
     {
       "asn": 25019,
@@ -8061,7 +7929,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:56.723Z"
+      "lastSeenOn": "2026-02-23T00:02:14.978Z"
     },
     {
       "asn": 214922,
@@ -8105,7 +7973,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "SINET-MNT",
-      "lastSeenOn": "2026-02-16T00:01:03.613Z"
+      "lastSeenOn": "2026-02-23T00:01:08.1Z"
     },
     {
       "asn": 216127,
@@ -8116,7 +7984,7 @@
       "totalIps": 254,
       "countryCode": 826,
       "maintainer": "NUXTCLOUD-MNT",
-      "lastSeenOn": "2026-02-16T00:00:50.204Z"
+      "lastSeenOn": "2026-02-23T00:00:59.338Z"
     },
     {
       "asn": 216127,
@@ -8127,7 +7995,7 @@
       "totalIps": 254,
       "countryCode": 826,
       "maintainer": "NUXTCLOUD-MNT",
-      "lastSeenOn": "2026-02-16T00:00:50.399Z"
+      "lastSeenOn": "2026-02-23T00:00:59.4Z"
     },
     {
       "asn": 203042,
@@ -8171,7 +8039,7 @@
       "totalIps": 254,
       "countryCode": 380,
       "maintainer": "MNT-REEVO",
-      "lastSeenOn": "2026-02-16T00:01:00.202Z"
+      "lastSeenOn": "2026-02-23T00:01:07.508Z"
     },
     {
       "asn": 3242,
@@ -8182,7 +8050,7 @@
       "totalIps": 510,
       "countryCode": 380,
       "maintainer": "MNT-REEVO",
-      "lastSeenOn": "2026-02-16T00:01:00.217Z"
+      "lastSeenOn": "2026-02-23T00:01:07.527Z"
     },
     {
       "asn": 3242,
@@ -8193,7 +8061,7 @@
       "totalIps": 2046,
       "countryCode": 380,
       "maintainer": "MNT-REEVO",
-      "lastSeenOn": "2026-02-16T00:01:00.251Z"
+      "lastSeenOn": "2026-02-23T00:01:07.556Z"
     },
     {
       "asn": 3242,
@@ -8204,7 +8072,7 @@
       "totalIps": 1022,
       "countryCode": 380,
       "maintainer": "MNT-REEVO",
-      "lastSeenOn": "2026-02-16T00:01:00.321Z"
+      "lastSeenOn": "2026-02-23T00:01:07.793Z"
     },
     {
       "asn": 214922,
@@ -8248,7 +8116,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "SINET-MNT",
-      "lastSeenOn": "2026-02-16T00:01:02.397Z"
+      "lastSeenOn": "2026-02-23T00:01:02.071Z"
     },
     {
       "asn": 25540,
@@ -8270,7 +8138,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "lir-ae-ipmaster-1-MNT",
-      "lastSeenOn": "2026-02-16T00:01:10.197Z"
+      "lastSeenOn": "2026-02-23T00:13:39.948Z"
     },
     {
       "asn": 42337,
@@ -8281,7 +8149,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "lir-ae-ipmaster-1-MNT",
-      "lastSeenOn": "2026-02-16T00:01:11.112Z"
+      "lastSeenOn": "2026-02-23T00:13:40.583Z"
     },
     {
       "asn": 216154,
@@ -8292,7 +8160,7 @@
       "totalIps": 2046,
       "countryCode": 784,
       "maintainer": "lir-ae-clodo-1-MNT",
-      "lastSeenOn": "2026-02-16T00:01:03.447Z"
+      "lastSeenOn": "2026-02-23T00:00:52.953Z"
     },
     {
       "asn": 62442,
@@ -8303,7 +8171,7 @@
       "totalIps": 1022,
       "countryCode": 364,
       "maintainer": "Fanavadp-LIR",
-      "lastSeenOn": "2026-02-16T00:00:57.7Z"
+      "lastSeenOn": "2026-02-23T00:01:14.959Z"
     },
     {
       "asn": 62442,
@@ -8314,7 +8182,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "Fanavadp-LIR",
-      "lastSeenOn": "2026-02-16T00:00:57.712Z"
+      "lastSeenOn": "2026-02-23T00:01:14.982Z"
     },
     {
       "asn": 62442,
@@ -8325,7 +8193,7 @@
       "totalIps": 254,
       "countryCode": 364,
       "maintainer": "Fanavadp-LIR",
-      "lastSeenOn": "2026-02-16T00:00:57.726Z"
+      "lastSeenOn": "2026-02-23T00:01:15.005Z"
     },
     {
       "asn": 214922,
@@ -8347,7 +8215,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.688Z"
+      "lastSeenOn": "2026-02-23T00:01:42.308Z"
     },
     {
       "asn": 25019,
@@ -8358,7 +8226,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.696Z"
+      "lastSeenOn": "2026-02-23T00:01:42.341Z"
     },
     {
       "asn": 25019,
@@ -8369,7 +8237,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.769Z"
+      "lastSeenOn": "2026-02-23T00:01:42.328Z"
     },
     {
       "asn": 25019,
@@ -8380,7 +8248,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.708Z"
+      "lastSeenOn": "2026-02-23T00:01:42.363Z"
     },
     {
       "asn": 25019,
@@ -8391,7 +8259,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.776Z"
+      "lastSeenOn": "2026-02-23T00:01:42.389Z"
     },
     {
       "asn": 25019,
@@ -8402,7 +8270,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:30.788Z"
+      "lastSeenOn": "2026-02-23T00:01:42.409Z"
     },
     {
       "asn": 25019,
@@ -8413,7 +8281,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.209Z"
+      "lastSeenOn": "2026-02-23T00:01:43.263Z"
     },
     {
       "asn": 25019,
@@ -8424,7 +8292,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.228Z"
+      "lastSeenOn": "2026-02-23T00:01:43.065Z"
     },
     {
       "asn": 25019,
@@ -8435,7 +8303,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.24Z"
+      "lastSeenOn": "2026-02-23T00:01:43.086Z"
     },
     {
       "asn": 25019,
@@ -8446,7 +8314,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.25Z"
+      "lastSeenOn": "2026-02-23T00:01:43.117Z"
     },
     {
       "asn": 25019,
@@ -8457,7 +8325,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.261Z"
+      "lastSeenOn": "2026-02-23T00:01:43.141Z"
     },
     {
       "asn": 25019,
@@ -8468,7 +8336,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.276Z"
+      "lastSeenOn": "2026-02-23T00:01:43.166Z"
     },
     {
       "asn": 25019,
@@ -8479,7 +8347,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.287Z"
+      "lastSeenOn": "2026-02-23T00:01:43.192Z"
     },
     {
       "asn": 25019,
@@ -8490,7 +8358,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.302Z"
+      "lastSeenOn": "2026-02-23T00:01:43.219Z"
     },
     {
       "asn": 25019,
@@ -8501,7 +8369,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.313Z"
+      "lastSeenOn": "2026-02-23T00:01:43.246Z"
     },
     {
       "asn": 25019,
@@ -8512,7 +8380,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.325Z"
+      "lastSeenOn": "2026-02-23T00:01:43.269Z"
     },
     {
       "asn": 25019,
@@ -8523,7 +8391,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.515Z"
+      "lastSeenOn": "2026-02-23T00:01:43.489Z"
     },
     {
       "asn": 25019,
@@ -8534,7 +8402,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.336Z"
+      "lastSeenOn": "2026-02-23T00:01:43.296Z"
     },
     {
       "asn": 25019,
@@ -8545,7 +8413,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.526Z"
+      "lastSeenOn": "2026-02-23T00:01:43.516Z"
     },
     {
       "asn": 25019,
@@ -8556,7 +8424,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.398Z"
+      "lastSeenOn": "2026-02-23T00:01:43.188Z"
     },
     {
       "asn": 25019,
@@ -8567,7 +8435,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.537Z"
+      "lastSeenOn": "2026-02-23T00:01:43.534Z"
     },
     {
       "asn": 25019,
@@ -8578,7 +8446,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.348Z"
+      "lastSeenOn": "2026-02-23T00:01:43.326Z"
     },
     {
       "asn": 25019,
@@ -8589,7 +8457,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.407Z"
+      "lastSeenOn": "2026-02-23T00:01:43.208Z"
     },
     {
       "asn": 25019,
@@ -8600,7 +8468,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.546Z"
+      "lastSeenOn": "2026-02-23T00:01:43.282Z"
     },
     {
       "asn": 25019,
@@ -8611,7 +8479,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.557Z"
+      "lastSeenOn": "2026-02-23T00:01:43.301Z"
     },
     {
       "asn": 25019,
@@ -8622,7 +8490,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.413Z"
+      "lastSeenOn": "2026-02-23T00:01:43.234Z"
     },
     {
       "asn": 25019,
@@ -8633,7 +8501,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.357Z"
+      "lastSeenOn": "2026-02-23T00:01:44.501Z"
     },
     {
       "asn": 25019,
@@ -8644,7 +8512,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.567Z"
+      "lastSeenOn": "2026-02-23T00:01:43.323Z"
     },
     {
       "asn": 25019,
@@ -8655,7 +8523,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.425Z"
+      "lastSeenOn": "2026-02-23T00:01:43.254Z"
     },
     {
       "asn": 25019,
@@ -8666,7 +8534,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.575Z"
+      "lastSeenOn": "2026-02-23T00:01:43.342Z"
     },
     {
       "asn": 25019,
@@ -8677,7 +8545,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.432Z"
+      "lastSeenOn": "2026-02-23T00:01:43.276Z"
     },
     {
       "asn": 25019,
@@ -8688,7 +8556,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.583Z"
+      "lastSeenOn": "2026-02-23T00:01:43.365Z"
     },
     {
       "asn": 25019,
@@ -8699,7 +8567,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.443Z"
+      "lastSeenOn": "2026-02-23T00:01:43.308Z"
     },
     {
       "asn": 25019,
@@ -8710,7 +8578,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.593Z"
+      "lastSeenOn": "2026-02-23T00:01:43.387Z"
     },
     {
       "asn": 25019,
@@ -8721,7 +8589,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.452Z"
+      "lastSeenOn": "2026-02-23T00:01:43.329Z"
     },
     {
       "asn": 25019,
@@ -8732,7 +8600,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.46Z"
+      "lastSeenOn": "2026-02-23T00:01:43.348Z"
     },
     {
       "asn": 25019,
@@ -8743,7 +8611,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.469Z"
+      "lastSeenOn": "2026-02-23T00:01:43.366Z"
     },
     {
       "asn": 25019,
@@ -8754,7 +8622,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.478Z"
+      "lastSeenOn": "2026-02-23T00:01:43.383Z"
     },
     {
       "asn": 25019,
@@ -8765,7 +8633,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.485Z"
+      "lastSeenOn": "2026-02-23T00:01:43.408Z"
     },
     {
       "asn": 25019,
@@ -8776,7 +8644,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.496Z"
+      "lastSeenOn": "2026-02-23T00:01:43.427Z"
     },
     {
       "asn": 25019,
@@ -8787,7 +8655,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:31.503Z"
+      "lastSeenOn": "2026-02-23T00:01:43.454Z"
     },
     {
       "asn": 25019,
@@ -8798,7 +8666,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:43.805Z"
+      "lastSeenOn": "2026-02-23T00:01:57.103Z"
     },
     {
       "asn": 25019,
@@ -8809,7 +8677,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:43.335Z"
+      "lastSeenOn": "2026-02-23T00:01:57.478Z"
     },
     {
       "asn": 25019,
@@ -8820,7 +8688,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:43.353Z"
+      "lastSeenOn": "2026-02-23T00:01:57.51Z"
     },
     {
       "asn": 25019,
@@ -8831,7 +8699,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:51.885Z"
+      "lastSeenOn": "2026-02-23T00:02:06.035Z"
     },
     {
       "asn": 25019,
@@ -8842,7 +8710,7 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:51.894Z"
+      "lastSeenOn": "2026-02-23T00:02:04.898Z"
     },
     {
       "asn": 25019,
@@ -8853,7 +8721,84 @@
       "totalIps": 254,
       "countryCode": 682,
       "maintainer": "SAUDINET-STC",
-      "lastSeenOn": "2026-02-16T00:01:51.761Z"
+      "lastSeenOn": "2026-02-23T00:02:04.911Z"
+    },
+    {
+      "asn": 42861,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "77.105.166.1",
+      "ipEnd": "77.105.166.254",
+      "totalIps": 254,
+      "countryCode": 643,
+      "maintainer": "mnt-ru-kmisaev-1",
+      "lastSeenOn": "2026-02-23T00:00:48.767Z"
+    },
+    {
+      "asn": 42861,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "185.225.200.1",
+      "ipEnd": "185.225.201.254",
+      "totalIps": 510,
+      "countryCode": 643,
+      "maintainer": "mnt-ru-kmisaev-1",
+      "lastSeenOn": "2026-02-23T00:00:48.738Z"
+    },
+    {
+      "asn": 42532,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "94.126.228.1",
+      "ipEnd": "94.126.231.254",
+      "totalIps": 1022,
+      "countryCode": 428,
+      "maintainer": "VEESP-MNT",
+      "lastSeenOn": "2026-02-23T00:00:54.983Z"
+    },
+    {
+      "asn": 42337,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "5.160.7.1",
+      "ipEnd": "5.160.7.254",
+      "totalIps": 254,
+      "countryCode": 364,
+      "maintainer": "MNT-RSPN",
+      "lastSeenOn": "2026-02-23T00:13:40.214Z"
+    },
+    {
+      "asn": 214504,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "132.243.242.1",
+      "ipEnd": "132.243.242.254",
+      "totalIps": 254,
+      "countryCode": 196,
+      "maintainer": "interlir-mnt",
+      "lastSeenOn": "2026-02-20T00:00:52.623Z"
+    },
+    {
+      "asn": 214504,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "132.243.243.1",
+      "ipEnd": "132.243.243.254",
+      "totalIps": 254,
+      "countryCode": 196,
+      "maintainer": "interlir-mnt",
+      "lastSeenOn": "2026-02-20T00:00:52.633Z"
+    },
+    {
+      "asn": 198154,
+      "owner": "",
+      "ipVersion": 4,
+      "ipStart": "81.12.83.1",
+      "ipEnd": "81.12.83.254",
+      "totalIps": 254,
+      "countryCode": 364,
+      "maintainer": "SINET-MNT",
+      "lastSeenOn": "2026-02-23T00:01:08.116Z"
     }
   ],
   "index": 6

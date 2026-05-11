@@ -31675,26 +31675,26 @@
   },
   {
     "domain": "get-mail.cf",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
     "domain": "get-mail.ga",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
     "domain": "get-mail.ml",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
     "domain": "get-mail.tk",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32197,14 +32197,14 @@
   },
   {
     "domain": "giveh2o.info",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
     "domain": "givememail.club",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32215,8 +32215,8 @@
   },
   {
     "domain": "givmail.com",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32269,8 +32269,8 @@
   },
   {
     "domain": "glitch.sx",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32305,8 +32305,8 @@
   },
   {
     "domain": "globaltouron.com",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32329,14 +32329,14 @@
   },
   {
     "domain": "glubex.com",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
     "domain": "glucosegrin.com",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32473,8 +32473,8 @@
   },
   {
     "domain": "gmatch.org",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -32497,8 +32497,8 @@
   },
   {
     "domain": "gmial.com",
-    "disposable": false,
-    "free": true,
+    "disposable": true,
+    "free": false,
     "blacklist": false
   },
   {
@@ -112399,6 +112399,12 @@
   },
   {
     "domain": "ydns.eu",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "deapad.com",
     "disposable": true,
     "free": false,
     "blacklist": false

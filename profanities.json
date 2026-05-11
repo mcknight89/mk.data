@@ -4590,6 +4590,11 @@
     "language": "English"
   },
   {
+    "text": "ficken",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "figging",
     "languageCode": "en",
     "language": "English"
@@ -4826,6 +4831,11 @@
   },
   {
     "text": "fornicate",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
+    "text": "fotze",
     "languageCode": "en",
     "language": "English"
   },
@@ -7310,6 +7320,11 @@
     "language": "English"
   },
   {
+    "text": "klootzak",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "knobbing",
     "languageCode": "en",
     "language": "English"
@@ -7501,6 +7516,11 @@
   },
   {
     "text": "kushis",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
+    "text": "kusi",
     "languageCode": "en",
     "language": "English"
   },
@@ -9040,6 +9060,11 @@
     "language": "English"
   },
   {
+    "text": "nigger",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "niggerhead",
     "languageCode": "en",
     "language": "English"
@@ -9491,6 +9516,11 @@
   },
   {
     "text": "orifiss",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
+    "text": "orospu",
     "languageCode": "en",
     "language": "English"
   },
@@ -10180,6 +10210,11 @@
     "language": "English"
   },
   {
+    "text": "pizda",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "playboy",
     "languageCode": "en",
     "language": "English"
@@ -10721,6 +10756,11 @@
   },
   {
     "text": "pusy",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
+    "text": "puta",
     "languageCode": "en",
     "language": "English"
   },
@@ -11665,6 +11705,11 @@
     "language": "English"
   },
   {
+    "text": "shit",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "shit ass",
     "languageCode": "en",
     "language": "English"
@@ -12166,6 +12211,11 @@
   },
   {
     "text": "skumbag",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
+    "text": "skurwysyn",
     "languageCode": "en",
     "language": "English"
   },
@@ -15010,17 +15060,7 @@
     "language": "German"
   },
   {
-    "text": "ficken",
-    "languageCode": "de",
-    "language": "German"
-  },
-  {
     "text": "flittchen",
-    "languageCode": "de",
-    "language": "German"
-  },
-  {
-    "text": "fotze",
     "languageCode": "de",
     "language": "German"
   },
@@ -16116,11 +16156,6 @@
   },
   {
     "text": "kusettaa",
-    "languageCode": "fi",
-    "language": "Finnish"
-  },
-  {
-    "text": "kusi",
     "languageCode": "fi",
     "language": "Finnish"
   },
@@ -20600,11 +20635,6 @@
     "language": "Dutch"
   },
   {
-    "text": "klootzak",
-    "languageCode": "nl",
-    "language": "Dutch"
-  },
-  {
     "text": "kloten",
     "languageCode": "nl",
     "language": "Dutch"
@@ -20926,11 +20956,6 @@
   },
   {
     "text": "schuinsmarcheerder",
-    "languageCode": "nl",
-    "language": "Dutch"
-  },
-  {
-    "text": "shit",
     "languageCode": "nl",
     "language": "Dutch"
   },
@@ -21415,11 +21440,6 @@
     "language": "Polish"
   },
   {
-    "text": "skurwysyn",
-    "languageCode": "pl",
-    "language": "Polish"
-  },
-  {
     "text": "sraczka",
     "languageCode": "pl",
     "language": "Polish"
@@ -21735,11 +21755,6 @@
     "language": "Portuguese"
   },
   {
-    "text": "puta",
-    "languageCode": "pt",
-    "language": "Portuguese"
-  },
-  {
     "text": "puta que pariu",
     "languageCode": "pt",
     "language": "Portuguese"
@@ -21931,11 +21946,6 @@
   },
   {
     "text": "pizd'uk",
-    "languageCode": "ru",
-    "language": "Russian"
-  },
-  {
-    "text": "pizda",
     "languageCode": "ru",
     "language": "Russian"
   },
@@ -22685,11 +22695,6 @@
     "language": "Swedish"
   },
   {
-    "text": "nigger",
-    "languageCode": "sv",
-    "language": "Swedish"
-  },
-  {
     "text": "olla",
     "languageCode": "sv",
     "language": "Swedish"
@@ -23211,11 +23216,6 @@
   },
   {
     "text": "kaltağın",
-    "languageCode": "tr",
-    "language": "Turkish"
-  },
-  {
-    "text": "orospu",
     "languageCode": "tr",
     "language": "Turkish"
   },

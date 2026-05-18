@@ -6375,6 +6375,11 @@
     "language": "English"
   },
   {
+    "text": "hoer",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "hoes",
     "languageCode": "en",
     "language": "English"
@@ -7510,6 +7515,11 @@
     "language": "English"
   },
   {
+    "text": "kurwa",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
     "text": "kushi",
     "languageCode": "en",
     "language": "English"
@@ -7801,6 +7811,11 @@
   },
   {
     "text": "loins",
+    "languageCode": "en",
+    "language": "English"
+  },
+  {
+    "text": "lolita",
     "languageCode": "en",
     "language": "English"
   },
@@ -20555,11 +20570,6 @@
     "language": "Dutch"
   },
   {
-    "text": "hoer",
-    "languageCode": "nl",
-    "language": "Dutch"
-  },
-  {
     "text": "hoerenbuurt",
     "languageCode": "nl",
     "language": "Dutch"
@@ -21340,11 +21350,6 @@
     "language": "Polish"
   },
   {
-    "text": "kurwa",
-    "languageCode": "pl",
-    "language": "Polish"
-  },
-  {
     "text": "kurwy",
     "languageCode": "pl",
     "language": "Polish"
@@ -21701,11 +21706,6 @@
   },
   {
     "text": "inferno",
-    "languageCode": "pt",
-    "language": "Portuguese"
-  },
-  {
-    "text": "lolita",
     "languageCode": "pt",
     "language": "Portuguese"
   },

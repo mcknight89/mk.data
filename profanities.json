@@ -6275,11 +6275,6 @@
     "language": "English"
   },
   {
-    "text": "helvete",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "hentai",
     "languageCode": "en",
     "language": "English"
@@ -6376,11 +6371,6 @@
   },
   {
     "text": "hoe",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
-    "text": "hoer",
     "languageCode": "en",
     "language": "English"
   },
@@ -7441,11 +7431,6 @@
   },
   {
     "text": "kuffar",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
-    "text": "kuk",
     "languageCode": "en",
     "language": "English"
   },
@@ -20580,6 +20565,11 @@
     "language": "Dutch"
   },
   {
+    "text": "hoer",
+    "languageCode": "nl",
+    "language": "Dutch"
+  },
+  {
     "text": "hoerenbuurt",
     "languageCode": "nl",
     "language": "Dutch"
@@ -22635,6 +22625,11 @@
     "language": "Swedish"
   },
   {
+    "text": "helvete",
+    "languageCode": "sv",
+    "language": "Swedish"
+  },
+  {
     "text": "hård",
     "languageCode": "sv",
     "language": "Swedish"
@@ -22646,6 +22641,11 @@
   },
   {
     "text": "knulla",
+    "languageCode": "sv",
+    "language": "Swedish"
+  },
+  {
+    "text": "kuk",
     "languageCode": "sv",
     "language": "Swedish"
   },

@@ -7320,11 +7320,6 @@
     "language": "English"
   },
   {
-    "text": "klootzak",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "knobbing",
     "languageCode": "en",
     "language": "English"
@@ -9060,11 +9055,6 @@
     "language": "English"
   },
   {
-    "text": "nigger",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
     "text": "niggerhead",
     "languageCode": "en",
     "language": "English"
@@ -9516,11 +9506,6 @@
   },
   {
     "text": "orifiss",
-    "languageCode": "en",
-    "language": "English"
-  },
-  {
-    "text": "orospu",
     "languageCode": "en",
     "language": "English"
   },
@@ -20635,6 +20620,11 @@
     "language": "Dutch"
   },
   {
+    "text": "klootzak",
+    "languageCode": "nl",
+    "language": "Dutch"
+  },
+  {
     "text": "kloten",
     "languageCode": "nl",
     "language": "Dutch"
@@ -22695,6 +22685,11 @@
     "language": "Swedish"
   },
   {
+    "text": "nigger",
+    "languageCode": "sv",
+    "language": "Swedish"
+  },
+  {
     "text": "olla",
     "languageCode": "sv",
     "language": "Swedish"
@@ -23216,6 +23211,11 @@
   },
   {
     "text": "kaltağın",
+    "languageCode": "tr",
+    "language": "Turkish"
+  },
+  {
+    "text": "orospu",
     "languageCode": "tr",
     "language": "Turkish"
   },

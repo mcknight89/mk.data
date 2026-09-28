@@ -775,26 +775,26 @@
   },
   {
     "domain": "10mail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10mail.org",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minut.com.pl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minut.xyz",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -811,50 +811,50 @@
   },
   {
     "domain": "10minutemail.be",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.co.uk",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.co.za",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.gq",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -865,20 +865,20 @@
   },
   {
     "domain": "10minutemail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemail.nl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -895,8 +895,8 @@
   },
   {
     "domain": "10minutemail.pro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -907,38 +907,38 @@
   },
   {
     "domain": "10minutemail.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemailbox.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutemails.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutenemail.de",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutesmail.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "10minutesmail.fr",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -961,8 +961,8 @@
   },
   {
     "domain": "10minutmail.pl",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -979,14 +979,14 @@
   },
   {
     "domain": "10x9.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "11163.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -1075,8 +1075,8 @@
   },
   {
     "domain": "123-m.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -3715,20 +3715,20 @@
   },
   {
     "domain": "8mail.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "8mail.ga",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "8mail.ml",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -3841,14 +3841,14 @@
   },
   {
     "domain": "99.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "99cows.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -3859,8 +3859,8 @@
   },
   {
     "domain": "99experts.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -3895,8 +3895,8 @@
   },
   {
     "domain": "9mail.cf",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -3907,26 +3907,26 @@
   },
   {
     "domain": "9me.site",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "9mot.ru",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "9ox.net",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "9q.ro",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4069,8 +4069,8 @@
   },
   {
     "domain": "a45.in",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4111,8 +4111,8 @@
   },
   {
     "domain": "a7996.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4123,8 +4123,8 @@
   },
   {
     "domain": "aa5zy64.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -4207,14 +4207,14 @@
   },
   {
     "domain": "abacuswe.us",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
     "domain": "abakiss.com",
-    "disposable": true,
-    "free": false,
+    "disposable": false,
+    "free": true,
     "blacklist": false
   },
   {
@@ -130477,6 +130477,624 @@
   },
   {
     "domain": "zxrey.club",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "51mail.shop",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "69flix.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "abusultann.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aifreeuk.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aifreeuk.info",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aifreeuk.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aifreeuk.store",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "aihuohua.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "airychen.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "akolay.tech",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "alightmotion.website",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "amiyah.cloud",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "axgrad.io",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "b20nn6.cn",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "blobapps.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "boshi-gdh.club",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "busd-mmjd3.wiki",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "caregradeguard.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "casterview.xyz",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ccategoryk.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "chatclaude.top",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "codzy.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "crogra.org",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "cutuvye.org",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "dboxmail.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "dreameg.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "dswe-56f.xyz",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "duidir.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "elitepixels.store",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "enowgntg.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ernestturcotte.us",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "fdger88.cc",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "fedayroi.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "findize.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gamen.me",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gamerai.shop",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gamerai.space",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gandobaba.bond",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gcpfas.shop",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gmaail.icu",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "gmailold.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "heyzalo.vn",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hideam.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hiverun.io",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hjdkker-kdet.click",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hnfw-ngd.wiki",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hokyflix.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "hotmailtrusted.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "imagenbox.xyz",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "inflyratech.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "irinakicka.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "japanesegirls.cc",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "jessyx.bond",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "jobscai.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "joymail.cyou",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "jywa.social",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ketimunfam.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "kjnbtv.dedyn.io",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ktisocial.asia",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "lalulahoot.me",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "lovepet.vip",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mailold.us",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mailpts.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "manhmmonew.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "meonvr.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mokondo.today",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "mokondoo.cyou",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "molabo.bond",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "navura.in",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "nethubmail.net",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "novacontigencia.xyz",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "nttoadmin2.us",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "paldonanamansilolo.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "pastipremium.store",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "pkdigitalmart.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ryuucn.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "samsung-gmail.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "semester.bond",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "serbaserbisoftware.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "sparxautomationhub.store",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "spotiy.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "superti4r.dev",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "sylnetgcp.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "sylnetx1.top",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "techcyber.shop",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "tempestme.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "tetestebu.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "torkakak.site",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "transaksikita.tech",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "trumingovn.online",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "trustmailold.us",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "tubebox.us",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "vividtipzone.com",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "webcenterfairbanks.dedyn.io",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "xolic.me",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "y4plv.cyou",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "yanhd-jkd.top",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ydhfks.shop",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "ynnord.top",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "yongdan-hstn.best",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "zexic.cyou",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "znext.bond",
+    "disposable": true,
+    "free": false,
+    "blacklist": false
+  },
+  {
+    "domain": "zzaidah.cloud",
     "disposable": true,
     "free": false,
     "blacklist": false
